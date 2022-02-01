@@ -1,0 +1,970 @@
+<div>
+<div>
+<h2></h2>
+<h2><strong><u>2020/2021</u></strong></h2>
+</div>
+<div>
+
+<strong>Date</strong>: Tuesday April 27, 2021 at 4pm
+<ul>
+ 	<li><strong>Title: </strong>Exploring the Frontier of Vorticity in Heavy-ion Collisions</li>
+ 	<li><strong>Speaker: </strong>Isaac Upsal (BNL)</li>
+ 	<li><strong>Abstract: </strong>In accelerators like RHIC, heavy atomic nuclei are collided at high energies to study emergent properties of the strong-nuclear force. At high-enough energies with heavy-enough nuclei such collisions create a short-lived novel fluid of deconfined quarks and gluons called the “Quark Gluon Plasma”. Because the nuclei themselves are so large, the transverse size of the nuclear overlap is a variable of significance to the field. Collisions with large impact parameters (low degree of overlap) have large angular momentum (~1000 hbar). For a collision which takes a finite amount of time one would expect an excess of particles with spin along the direction of system angular momentum due to spin-orbit coupling. In 2017 STAR reported the first non-trivial measurement of this alignment, called the global polarization, at the order of a few percent (https://doi.org/10.1038/nature23004). In a thermalized fluid this polarization would come about through a vorticity. Using such a framework it’s possible to extract a vorticity on the order of 10^22 s^-1, which is notably higher than any previously known fluid. This measurement renewed interest in this physics within the heavy-ion physics community and there have been a number of interesting new calculations as well as measurements from STAR, ALICE, and HADES. I plan on discussing this measurement, newer developments, and the future of similar measurements.</li>
+</ul>
+</div>
+</div>
+&nbsp;
+
+<strong>Date</strong>: Wednesday January  27, 2021 at 2pm
+<ul>
+ 	<li><strong>Title:</strong> Physicists Learning from Machines Learning</li>
+ 	<li><strong>Speaker</strong>: Taylor Faucett (UCI)</li>
+ 	<li><strong>Abstract </strong>Machine Learning methods are extremely powerful but often function as black-box problem solvers, providing improved performance at the expense of clarity. Our work describes a new machine learning approach which translates the strategy of a deep neural network into simple functions that are meaningful and intelligible to the physicist, without sacrificing performance improvements. We apply this approach to benchmark high-energy problems of fat-jet classification and electron identification. In each case, we find simple new observables which provide additional classification power and novel insights into the nature of the problem.</li>
+</ul>
+&nbsp;
+
+&nbsp;
+
+<hr />
+
+<h2><strong><u>2019/2020</u></strong></h2>
+<strong>Date</strong>: Thursday January  23, 2020 at 4pm
+<ul>
+ 	<li><strong>Title:</strong> Neutrinos, looking for the next big thing</li>
+ 	<li><strong>Speaker</strong>: Aaron Higuera (UH)</li>
+ 	<li><strong>Abstract </strong>In this seminar I will give an overview of neutrinos, its history and I will discuss how neutrinos lead us to new physics phenomena, neutrinos oscillations and its implications. In addition, given the current knowledge of neutrino physics, I will discuss what are the open questions in neutrino physics and how we are planing to address them with the next generation of neutrino experiments. In specific, I will mentioned the Deep Underground Neutrino Experiment, and how we plan to build such experiment, its technology and R&amp;D efforts.</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Thursday December 5, 2019 at 4pm
+<ul>
+ 	<li>
+<div><strong>Title:</strong> LHC Opportunities in Long-Lived Signatures from Hidden Sectors</div></li>
+ 	<li>
+<div><strong>Speaker</strong>: Zhen Liu (Univ. of Maryland)</div></li>
+ 	<li>
+<div><strong>Abstract </strong>The LHC bear great potential in seeking for hidden sector particles, such as a high-quality QCD axion, glueballs, and heavy neutrinos. In this talk, I will present my recent studies on how to probe these hidden sector particles through the novel but challenging long-lived particle searches.</div></li>
+</ul>
+&nbsp;
+
+&nbsp;
+
+<strong>Date</strong>: Thursday October 31, 2019 at 4pm
+<ul>
+ 	<li>
+<div><strong>Title:</strong> Light Dark Matter Search with XENON1T</div></li>
+ 	<li>
+<div><strong>Speaker</strong>: Jelle Aalbers (Univ. Stockholm)</div></li>
+ 	<li>
+<div><strong>Abstract </strong>This talk reports on recent light dark matter results from XENON1T (<a href="https://arxiv.org/abs/1907.11485">https://arxiv.org/abs/1907.11485</a>). Using strong event selections, rather than requiring a scintillation signal, we obtain a thousand times lower background than in similar previous searches. This yields world-leading constraints on WIMPs, leptophillic dark matter, dark photons and axion-like particles.</div></li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Thursday August 29, 2019 at 4pm
+<ul>
+ 	<li><strong>Title:</strong> Deep Learning for Neutrino Physics: Successes and Lessons</li>
+ 	<li><strong>Speaker</strong>: Fernanda Psihas (UT Austin)</li>
+ 	<li><strong>Abstract </strong>Among the particles of the Standard Model, neutrinos are the least understood. Experiments worldwide are engaged in studying their properties and behavior, which could be linked to the matter-antimatter asymmetry of the Universe. Over the past several years, particle physicists have adapted techniques from the field of computer vision, whose tasks translate naturally for detector data analysis and simulation. Particle physics datasets are also a rich playground for new algorithmic approaches to data analysis. Neutrino experiments often look for rare signals in large amounts of data. Deep Learning techniques have yielded substantial improvements to the physics reach of many experiments already, and have redefined the limit to what is attainable in the realm of data collection, analysis, and R&amp;D. Not only is neutrino physics benefiting from these techniques, but we are also contributing in new ways to algorithm design and utilization. This talk will discuss the main successes and newest developments of deep learning applications in the field of neutrino physics. The particulars of neutrino experiment data and tasks will be discussed, as well as lessons learned and future applications of machine learning to the field of neutrino physics.</li>
+</ul>
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+<hr />
+
+<h2><strong><u>2018/2019</u></strong></h2>
+<strong>Date</strong>: Thursday May 23, 2019 at 10am
+<ul>
+ 	<li><strong>Title:</strong> Searching for pair production of new light bosons decaying to muons with the CMS detector</li>
+ 	<li><strong>Speaker</strong>: Sven Dildick (Texas A&amp;M)</li>
+ 	<li><strong>Abstract: </strong>Searches for new light bosons can offer insights into the nature of the Higgs boson and dark matter. These particles are introduced in many extensions of the standard model, such as supersymmetry and models with hidden sectors. In this seminar I present a search for pair production of new light bosons with the CMS detector at the LHC. The search is uniquely sensitive to signatures with multi-muon final states and is designed to be model independent. The results of the analysis using 13 TeV collision data set are interpreted in the context of two relevant benchmark models. I will also discuss the phase-2 upgrade of the CMS detector and how it can improve the sensitivity in these searches.</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Thursday April 11, 2019 at 4pm
+<ul>
+ 	<li><strong>Title:</strong> Gauge-field Inflation and the Origin of the Matter-antimatter Asymmetry</li>
+ 	<li><strong>Speaker</strong>: Peter Adshead (Univ. of Illinois at Urbana-Champaign)</li>
+ 	<li><strong>Abstract: </strong>The basic inflationary paradigm is in good shape. On the one hand, the observed density fluctuations are adiabatic, gaussian and are red-tilted—characteristics in general agreement with simple models built from scalar fields. On the other hand, B-mode polarization of the cosmic microwave background sourced by primordial gravitational waves, the so-called smoking-gun signature of inflation, remains elusive. Upcoming and planned experiments will make increasingly precise B-mode measurements, potentially putting the inflationary paradigm through a stringent test.     In this talk, I describe a new class of inflationary scenarios which utilize gauge fields to generate inflationary dynamics in the early universe. Beyond simply providing yet another model for inflation, these scenarios furnish unique observational imprints which distinguish them from standard scalar-field scenarios. In particular, these scenarios generically result in large-amplitude, chiral gravitational waves and provide counterexamples to the standard claim that an observable tensor-to-scalar ratio requires inflation at the grand unification scale, as well as super-Planckian excursions of the inflaton. In addition I discuss how these chiral gravitational waves may be responsible for the matter-antimatter asymmetry of the Universe.</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Thursday Feb. 28, 2019 at 11am
+<ul>
+ 	<li style="text-align: left;"><strong>Title:</strong> LUX/LZ Dark Matter Experiment and Low Energy Calibrations of LUX Detector</li>
+ 	<li><strong>Speaker</strong>: Dongqing Huang (Brown University)</li>
+ 	<li><strong>Abstract: </strong>The LUX dark matter experiment is a 350 kg dual-phase time-projection chamber operating at the 4850 ft level of the Sanford Underground Research Facility in Lead, SD, USA from 2013 to 2016. The experiment searches for direct evidence of Weakly Interacting Massive Particles (WIMPs), a favored Dark Matter candidate. With a total exposure of 129 kg.year, LUX sets a 90% CL upper limit on the spin-independent (SI) WIMP-nucleon cross section of 1.1 × 10−46 cm2 at a WIMP mass of 50 GeV.c−2. The LUX experiment also carried out extensive calibrations for a better understanding of both electronic recoil (ER) and nuclear recoil (NR) responses in LXe. LUX achieved absolute energy calibrations of NR down to an energy of 0.7 keVnr using D-D neutron source and ER down to an energy of 186 eV using 127Xe electron capture in LXe. Both represent the lowest-energy ER and NR in situ measurements that have been explored in liquid xenon. The low energy calibrations allow an lower energy threshold for WIMP search and significantly improve LXe TPC sensitivities to low-mass WIMPs.     I will also present the LUX-ZEPLIN (LZ) detector, a LXe dark matter detector featuring more than 5 tons of target material in the fiducial region (from a total of 10 tons of xenon). It will be installed at the same facilities used by LUX. With a projected exposure of 1000 days (commissioning starts in 2020), LZ aims to exclude the WIMP-nucleon SI cross-sections down to 1.6×10−48 cm2 (90% CL, MWIMP = 40 GeV.c−2). This represents a factor of 10 improvement when compared to the expected sensitivities of currently running LXe dark matter experiments</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Thursday Jan. 17, 2019 at 3pm
+<ul>
+ 	<li><strong>Title:</strong> Measurements of photon interactions in hadronic heavy-ion collisions at STAR</li>
+ 	<li><strong>Speaker</strong>: Shuai Yang (BNL)</li>
+ 	<li><strong>Abstract: </strong>Photon-photon and photonuclear interactions can be induced by the strong electromagnetic fields arising from relativistic heavy ions. These two types of interactions are conventionally studied in ultra-peripheral collisions (UPC). The ALICE collaboration has observed a significant excess of $J/\psi$ yields at low transverse momenta ($p_T$) in peripheral Pb+Pb collisions, which can be qualitatively explained by coherent photonuclear production mechanism. Such an explanation implies that photon-photon interactions would be also measurable and contribute to the $l^+l^-$ pair production in hadronic heavy-ion collisions. Since the nuclei break up in peripheral heavy-ion collisions unlike in the UPCs, it is non-trivial to incorporate the coherence condition for the aforementioned photon interactions in such collisions. Measurements of $J/\psi$ and $e^+e^-$ pair productions at very low $p_T$ for different collision systems and energies, discussed in this talk, are thus important to verify and further understand photon interactions and their possible impacts on emerging phenomena in hadronic heavy-ion collisions.</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Thursday Nov. 29, 2018  at 4pm
+<ul>
+ 	<li><strong>Title:</strong> THE COSMIC MICROWAVE BACKGROUND: Dark Matter, and the Early Universe</li>
+ 	<li><strong>Speaker</strong>: Daniel Grin (Haverford College)</li>
+ 	<li><strong>Abstract: </strong>The cosmic microwave background anisotropies offer a pristine linear system to model &amp; explore. I will discuss what we can learn about the particle content and initial conditions of dark sectors of our universe, using observations of the cosmic microwave background. I will touch on implications for axion dark matter, dark energy, and other novel hypotheses, such as the idea that the fine-structure constant actually varies on cosmological length scales.</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Thursday Nov. 15, 2018  at 4pm
+<ul>
+ 	<li><strong>Title:</strong> Dark Sectors at High Energy and at High Intensity Experiments</li>
+ 	<li><strong>Speaker</strong>: Stefania Gori (University of Cincinnati )</li>
+ 	<li><strong>Abstract: </strong>Dark sector models are a compelling framework for Dark Matter (DM) theories. In this talk, after a brief introduction of dark sector physics, I will focus on models based on a new U(1)_Lmu-Ltau gauge symmetry, under which Dark Matter can be charged. These models, in addition to the DM motivation, can address some of the anomalies in data, as the (g-2)_mu anomaly and the LHCb B flavor anomalies. An overview of the experimental opportunities to probe these models will be presented.</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Thursday Nov. 8, 2018  at 4pm
+<ul>
+ 	<li><strong>Title:</strong> String Theory, String Field Theory, and Minimal Area Metrics</li>
+ 	<li><strong>Speaker</strong>: Barton Zwiebach (MIT)</li>
+ 	<li><strong>Abstract: </strong>In the last few years, we are finally in the possesion of field theories of all versions of superstring theory. I will review this accomplishment and discuss the algebraic underpinning, based on L_\infty algebras, and the geometric underpinning, based on metrics of minimal area.</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Thursday Oct. 18, 2018  at 4pm
+<ul>
+ 	<li><strong>Title:</strong> Axion couplings and implications for cosmology and astrophysics</li>
+ 	<li><strong>Speaker</strong>: JiJi Fan (Brown Univ)</li>
+ 	<li><strong>Abstract: </strong>Many cosmological models rely on large couplings of axions (pseudo-scalar fields) to gauge fields. Examples include theories of magnetogenesis, inflation on a steep potential, chiral gravitational waves, and chromonatural inflation. I will discuss the extent to which these large couplings could be explained as a product of order one numbers in a UV completed particle physics model: in the parlance of our times, can these cosmological models be “clockworked”?     I will also discuss possible self-couplings of the axions and their implications for the formation of exotic compact objects such as axion stars.</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Friday Sept. 21, 2018  at noon
+<ul>
+ 	<li><strong>Title:</strong> Hadronic decay of a light Higgs-like scalar</li>
+ 	<li><strong>Speaker</strong>: Alexander Monin (Univ of Geneva)</li>
+ 	<li><strong>Abstract: </strong>A number of extensions of the Standard Model predicts Higgs sector with additional light scalars. Currently operating and planned Intensity Frontier experiments will probe for the existence of such particles, while theoretical computations are plagued by uncertainties. I revisit the question of hadronic decays of a GeV-mass Higgs-like scalar. To this end I’ll provide a physically motivated fitting ansatz for the decay width that reproduces the previous non-perturbative numerical analysis. I describe systematic uncertainties of the non-perturbative method and provide explicit examples of the influence of extra resonances above 1.4 GeV onto the total decay width.</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Thursday Sept. 20, 2018  at 4pm
+<ul>
+ 	<li><strong>Title:</strong> A New Measurement of Charm and Bottom Production from Semielectronic Hadron Decays in p+p Collisions at RHIC</li>
+ 	<li><strong>Speaker</strong>: Javier Orjuela Koop (Univ. Colorado, Boulder)</li>
+ 	<li><strong>Abstract: </strong>This talk will present a new measurement of the differential production of open heavy flavor hadrons in p+p collisions at sqrt(s) = 200 GeV. The measurement proceeds via a displaced vertex analysis of electron tracks from the decay of charm and bottom hadrons, using the PHENIX Silicon Vertex Detector. The smaller uncertainties and extended kinematic reach of this result constitute an improvement over previous measurements, providing valuable new data to constrain pQCD calculations, and a new baseline for future precision measurements of heavy flavor suppression at RHIC.</li>
+</ul>
+<h2></h2>
+<strong>Date</strong>: Thursday Sept. 13, 2018  at 4pm
+<ul>
+ 	<li><strong>Title:</strong> Quarkonium Measurements in p+p, p+Au and Au+Au Collisions at √sNN=200 GeV with the STAR Experiment</li>
+ 	<li><strong>Speaker</strong>: Zaochen Ye (UIC)</li>
+ 	<li><strong>Abstract </strong>Measurements of quarkonium production are an important tool to study the properties of the Quark-Gluon Plasma (QGP) formed in relativistic heavy-ion collisions. Quarkonium suppression due to the color-screening effect was proposed as a direct evidence of the QGP formation. However, other effects, such as cold nuclear matter effects and regeneration, add additional complications to the interpretation of the observed suppression. Different quarkonium states with different binding energies are expected to dissociate at different temperatures, and therefore measurement of this “sequential melting” can help constrain the temperature of the medium. In this seminar, I will present and discuss the latest measurements of quarkonium (J/psi and Upsilon) production in p+p, p+Au and Au+Au collisions at √sNN = 200 GeV with the STAR experiment.</li>
+</ul>
+&nbsp;
+
+<hr />
+
+<h2><span style="text-decoration: underline;"><strong>2017/2018</strong></span></h2>
+<div class="post-1251 post type-post status-publish format-standard hentry category-seminars tag-cms tag-high-energy">
+<div class="entry">
+
+&nbsp;
+
+<strong>Date</strong>: Thursday May 7, 2018  at 10am
+<ul>
+ 	<li><strong>Title:</strong> TPC without charge multiplication: a CMOS direct readout towards neutrinoless double-beta decay and other applications.</li>
+ 	<li><strong>Speaker</strong>: Yuan Me (LBNL)</li>
+ 	<li><strong>Abstract </strong>Time Projection Chamber (TPC) and silicon-based sensor/Integrated Circuitry (IC) are indispensable elements in modern detector instrumentation. Since its inception, TPC relied on the charge sensing and high-speed sampling capabilities offered by silicon devices. The charge collection elements and the electronics, however, are traditionally separated. We are developing a new kind of TPC by integrating an array of CMOS charge sensors directly into the detection medium. Each CMOS sensor has exposed metal pads (pixels) for direct charge collection, and contains charge sensitive amplifiers as well as digitization/signal processing/data transmission circuitry. For the application in Neutrinoless Double-Beta Decay search in high-pressure gas, the electronic noise is suppressed to a level that the required signal-to-noise ratio is achieved without the need of avalanche charge multiplication. It provides competitive energy resolution while improves on tracking capability, stability, and scalability compared to alternative readout schemes. Moreover, ions drifting in gas can be read directly since the otherwise prohibitive ion avalanche is unnecessary. It enables the use of alternative gasesand double-beta decay candidate isotopes such as SeF6 gas, in which only ion drifting is possible. With modest modifications, the readout plane could be used in liquid noble gas and organic liquid TPCs for a broad range of applications. The design and the progress of the first prototype will be presented.</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Thursday April 26, 2018  at 4pm
+<ul>
+ 	<li><strong>Title:</strong> Search for disappearing tracks at CMS</li>
+ 	<li><strong>Speaker</strong>: Andrew Hart (OSU)</li>
+ 	<li><strong>Abstract: </strong>As the experiments at the LHC accumulate larger and larger data sets with dozens of searches showing no signs of physics beyond the standard model, it becomes imperative to examine the assumptions made in these searches. One of the most ubiquitous assumptions is that new particles will have short lifetimes and leave decay products that originate from the proton-proton interaction point. If the new particles are instead long-lived, they may produce experimental signatures that are completely missed by these more conventional searches. One particularly challenging signature of long-lived particles is the so-called “disappearing track,” where a new long-lived charged particle decays in the middle of the tracker of a collider detector to invisible decay products. In this talk, I will discuss the search for disappearing tracks in the 13 TeV data collected by the CMS detector, and how this search fits into the broader search for new physics at the LHC.</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Thursday April 12, 2018  at 4pm
+
+</div>
+</div>
+<div class="post-1249 post type-post status-publish format-standard hentry category-seminars tag-high-energy tag-theory">
+<div class="entry">
+<ul>
+ 	<li><strong>Title: </strong>A new model connecting the intensity and the energy frontier</li>
+ 	<li><strong>Speaker</strong>: Satya Nandi (Oklahoma State University)</li>
+ 	<li><strong>Abstract: </strong>A new model for the generation of the neutrino mass will be presented. The model has a triply charged Higgs boson whose mass is naturally at the TeV scale. This can be pair produced at the LHC, and its decay give rise to same sign trileptons in the final state. Depending on the parameter space, its decay can also produce displaced vertex. These signals will be within reach of the current or future runs of the LHC. The model also has interesting implications for the dark matter.</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Thursday March 1, 2018  at 4pm
+<ul>
+ 	<li><strong>Title: </strong>Open and Closed Heavy Flavor in Heavy Ion Collisions from AdS/CFT</li>
+ 	<li><strong>Speaker</strong>: William Horowitz (Univ. of Capetown, South Africa)</li>
+ 	<li><strong>Abstract: </strong>We present novel predictions for open and closed heavy flavor suppression in heavy ion collisions from AdS/CFT.  Including only leading order mean energy loss, AdS/CFT overpredicts the suppression of D and B mesons as measured by RHIC and LHC.  However, fluctuations in the energy loss provides the crucial bridge to data.  We derive a new result for the fluctuations in energy loss for open heavy flavor in AdS/CFT including a new, independent calculation of the transport coefficient qhat.  With this result for the fluctuations, our predictions for D and B meson suppression are in surprisingly good agreement with data.  We extend the phenomenological application of AdS/CFT to closed heavy flavor by computing the suppression of Upsilon at LHC.  Using the complex quarkonia potential derived from AdS/CFT, we compute the complex binding energies of the quarkonia.  Just like the open heavy flavor case, the suppression prediction based on this leading order, non-fluctuating complex binding energy leads to an oversuppression of Upsilon compared to data.  We conclude with a discussion future avenues of research in strongly-coupled heavy flavor physics in heavy ion collisions.</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Friday February 23, 2018  at 3pm
+<ul>
+ 	<li><strong>Title</strong>: Deep Learning in High Energy Physics</li>
+ 	<li><strong>Speaker</strong>: Daniel Whiteson (University of Chicago)</li>
+ 	<li><strong>Abstract</strong>:Recent advances in artificial intelligence offer opportunities to disrupt the traditional techniques for data analysis in high energy physics. I will describe the new machine learning techniques, explain why they are particularly well suited for particle physics, and present selected results that demonstrate their new capabilities.</li>
+</ul>
+<div>
+
+&nbsp;
+<div class="entry">
+
+<strong>Date</strong>: Thursday April 5, 2018  at 4pm
+<ul>
+ 	<li><strong>Title</strong>: Understanding the Nature of Neutrinos via Neutrinoless Double Beta Decay</li>
+ 	<li><strong>Speaker</strong>: Wenqin Xu (University of South Dakota)</li>
+ 	<li><strong>Abstract</strong>:Neutrinos provide a critical portal to physics beyond the Standard Model, but many neutrino properties are still largely unknown. The seesaw model can readily explain the small but non-zero neutrino mass and it requires neutrinos to be Majorana particles, <em>i.e.</em> fermions that are their own antiparticles. Neutrinoless double beta (0νββ) decay is a hypothetical lepton-number-violating process that is possible only if neutrinos are Majorana particles. The discovery of 0νββ decay would unambiguously establish the Majorana nature of neutrinos and explicitly show that the total lepton number is violated. A measurement of the decay rate may yield information regarding the absolute neutrino mass.Deploying 44 kg of high-purity Germanium (HPGe) detectors at the 4850′ level of the Sanford Underground Research Facility in South Dakota, the Majorana Demonstrator (MJD) experiment is an ultra-low background experiment searching for  0νββ decay in <sup>76</sup>Ge. The construction and commissioning of MJD has completed and the multiple-year data-taking has started. At the meantime, more than 200 researchers around the world, including many Majorana collaborators, have formed a new collaboration for the Large Enriched Germanium Experiment for Neutrinoless Double Beta Decay (LEGEND). The LEGEND collaboration aims to develop a phased, <sup>76</sup>Ge based 0νββ decay experimental program with discovery potential at a half-life beyond 10<sup>28</sup> years. In this talk, we will review the physics of 0νββ decay. We will discuss initial results from the Majorana Demonstrator experiment and the status of the LEGEND project.</li>
+</ul>
+</div>
+</div>
+</div>
+&nbsp;
+
+<strong>Date</strong>: Thursday November 9, 2017  at 4pm
+<div class="entry">
+<div class="entry">
+<div class="entry">
+<ul>
+ 	<li><strong>Title</strong>: Cosmic Ray Flux Measurements at Global Scale and the Associated Applications</li>
+ 	<li><strong>Speaker</strong>: Xiaochun He (Georgia State University)</li>
+ 	<li><strong>Abstract</strong>: Cosmic ray radiation has galactic origin and consists primarily of protons and a small percentage of heavier nuclei. The primary cosmic ray particles interact with the molecules in the atmosphere and produce showers of secondary particles at about 15 km altitude. In recent years, with the advancement of particle detection technology and massive computing power, there is a growing interest of exploring the applications of cosmic rays ranging from muon tomography, space and earth weather monitoring, etc. In this talk, I will present the recent work at Georgia State University on cosmic ray shower simulation, the development of low-cost cosmic ray detectors, and the plan for building a network of cosmic ray detectors around the globe.</li>
+</ul>
+</div>
+<div class="entry"></div>
+</div>
+</div>
+</div>
+<strong>Date</strong>: Monday November 13, 2017  at 4pm
+<ul>
+ 	<li><strong>Title</strong>: Accelerating Science with Deep Learning</li>
+ 	<li><strong>Speaker</strong>:  Michela Paginini (Yale)</li>
+ 	<li><strong>Abstract</strong>: With a rate of approximately 1 billion proton-proton collisions per second at an energy of 13 TeV, data sets from high energy physics collected at the Large Hadron Collider (LHC) are ideal for the application of machine learning. As new particles are created and detected, they produce high-dimensional, multi-modal streams of information that can be cast as sequential, image-based, causal learning tasks. In this talk, I will explore applications of computer vision techniques to improve generative and discriminative capabilities at the LHC. Specifically, I will outline the methodologies in a recent contribution where we introduced a deep generative model to enable high-fidelity, fast, detector simulation and achieved preliminary speed-up factors of up to 100,000x. Although there are still open challenges, this work represents a significant stepping stone toward a full neural network-based simulator that could save significant computing time and enable many analyses at the LHC and beyond. I will conclude with applications of deep learning to analysis scenarios and ideas for future machine learning powered solutions in high energy physics.</li>
+</ul>
+&nbsp;
+<div>
+<div class="entry">
+
+<strong>Date</strong>: Thursday October 12, 2017  at 4pm
+<ul>
+ 	<li><strong>Title</strong>: Probing Quantum Entanglement and Decoherence in Hadron Collisions</li>
+ 	<li><strong>Speaker</strong>: Dmitri Kharzeev (BNL, Stony Brook University)</li>
+ 	<li><strong>Abstract</strong>: The problem of evaluating the parton distribution function is formulated in terms of the entanglement entropy.  The entanglement between the part of the hadron probed in a hard scattering and the rest of the hadron is found to be related to the conventional parton distribution. Using nonlinear evolution equations of QCD, we compute the entanglement entropy resolved by hard scattering at  a given Bjorken x and momentum transfer. At small x, the relation between the entanglement entropy S(x) and the parton distribution xG(x) becomes very simple: S(x)=ln[xG(x)]. In this small x, large rapidity Y regime, all  partonic microstates have equal probabilities, and the entanglement entropy is maximal—so at small x, hard scattering probes a maximally entangled state. We propose the entanglement entropy as an observable that can be studied in hard scattering. This will require event-by-event measurements of hadronic final states, and would allow to study the transformation of entanglement entropy into the Boltzmann one. We compare our predictions to the available experimental data from the LHC.</li>
+</ul>
+</div>
+</div>
+&nbsp;
+
+<hr />
+
+<h2><strong><u>2016/2017</u></strong></h2>
+<div class="entry">
+
+&nbsp;
+
+<strong>Date</strong>: Tuesday, May 2, 2017  at 11am
+<ul>
+ 	<li><strong>Title</strong>: Scanning the perfect fluid with hadrons and dileptons</li>
+ 	<li><strong>Speaker</strong>: Jacquelyn Noronha-Hostler (UH)</li>
+ 	<li><strong>Abstract</strong>: Relativistic heavy-ion experiments at Brookhaven National Laboratory have successfully reproduced the Quark Gluon Plasma in the laboratory, which is the smallest fluid known to humankind.  The QGP acts as a nearly perfect fluid whose flow fluctuations are extremely well described by event-by-event relativistic viscous hydrodynamics.   Additionally, the QGP can be scanned by particles produced in the early stages after the collision such as high pT particles. There is an enhancement of the flow fluctuations at high pT, which indicates the importance of energy loss fluctuations in a strongly interacting medium.  Recently, dilepton studies have gained attention since these particles allow one to scan different parts of the QGP evolution.  Here we use the state of the art IP-Glasma+MUSIC model to analyze their dilepton flow fluctuations where we find there is a suppression in the fluctuations, in contrast to both the soft and hard sectors associated with light hadrons.</li>
+</ul>
+&nbsp;
+<div class="entry">
+
+<strong>Date</strong>: Monday , April 24, 2017  at 2pm
+<ul>
+ 	<li><strong>Title</strong>: The Physics of Non-Hydrodynamic Modes</li>
+ 	<li><strong>Speaker</strong>: Paul Romatschke (CU Boulder)</li>
+ 	<li><strong>Abstract</strong>: Examples for hydrodynamic collective modes are sound waves, shear and diffusive modes. But what are non-hydrodynamic collective modes? Most physicists likely have never ever heard about non-hydrodynamic modes in their entire career. Indeed, there does not seem to be a single textbook on this topic. This seminar will give an introduction to the physics of non-hydrodynamic modes, featuring gravitational waves, string theory predictions for experiment, cold atoms close to unitarity and heavy-ion collisions.
+<div class="entry"></div></li>
+</ul>
+<strong>Date</strong>: Tuesday, April 18, 2017  at noon
+<ul>
+ 	<li><strong>Title</strong>: Recent work with the TITAN system and EMMATrap: An Introduction</li>
+ 	<li><strong>Speaker</strong>: Daniel Lascar (TRIUMF)</li>
+ 	<li><strong>Abstract</strong>: The TITAN Penning trap group at TRIUMF in Vancouver, Canada has recently measured the masses of 18 ground and isomeric states of neutron-rich Cd and In for isotopes approaching the N=82 closed neutron shell. Several of the isomers were measured for the first time and in all cases where isomers were observed they were near a similarly produced ground state as well so well defined, absolute excitation energies were measured from single spectra. We have shown that one of the nuclei, 127Cd had been previously misidentified in the Atomic Mass Evaluation, which lists the isomer as the ground state. The measurements were all made with Highly Charged Ions (HCI) in the 13+ charge state and were charge bred in TITAN’s Electron Beam Ion Trap (EBIT).In order to improve the isobaric purity of the species sent to the Penning Trap and assist in future mass measurements, TITAN has installed and is commissioning a new MultiReflection Time-of-Flight mass spectrometer (MR-ToF). Designed to accommodate the space constraints on the TITAN platform, the TITAN couples an radiofrequency quadrupole ion guide and trap with the standard MR-ToF analyzer so direct mass measurements can be performed and mass selective retrapping of species in the analyzer can be accomplished in advance of precision measurements in TITAN’s precision Penning trap.Finally we introduce a new project, just getting underway at TRIUMF. EMMATrap will be a precision Penning trap experiment designed to couple to the focal plane of TRIUMF’s EMMA recoil mass spectrometer. EMMATrap will take advantage of EMMA’s ability to separate the higher energy reaction products generated in TRIUMF’s ISAC-II facility that TITAN, by virtue of its location in the ISAC-I facility, cannot reach.</li>
+</ul>
+<div class="entry">
+
+&nbsp;
+
+<strong>Date</strong>: Thursday, April 13, 2017  at 4pm
+
+</div>
+<ul>
+ 	<li><strong>Title</strong>: A holographic view of the hydrodynamisation of quark-gluon plasma</li>
+ 	<li><strong>Speaker</strong>: Wilke van der Schee (MIT)</li>
+ 	<li><strong>Abstract</strong>: This talk aims to give an accessible introduction and overview of employing holography to better understand the creation of quark-gluon plasma in heavy ion collisions. Holography is a framework, originating from string theory, where it was realised that the dynamics of temperature and entropy present on black hole horizons is precisely described by certain infinitely strongly interacting quantum field theories. We will apply this framework in a setting where a black hole forms from two colliding `holographic nuclei’, and show that the resulting plasma is very quickly described by viscous relativistic hydrodynamics, a process now called hydrodynamisation. Lastly, we give some updates on recent extensions to Einstein-Gauss-Bonnet gravity, which can mimic quantum field theories with a finite coupling constant.</li>
+</ul>
+</div>
+</div>
+&nbsp;
+
+<strong>Date</strong>: Friday, March 9, 2017  at 4pm
+<ul>
+ 	<li><strong>Title</strong>: Studying The Phase Diagram Of Qcd Matter: The Beam Energy Scan Program At RHIC</li>
+ 	<li><strong>Speaker</strong>: Daniel Cebra (UC Davis)</li>
+ 	<li><strong>Abstract</strong>: As nuclear matter is compressed and heated to extreme temperatures, eventually a point is reached where the quarks and gluons are no longer bound within their hadrons but are instead constituents of a larger mass of deconfined matter, a QCD plasma. This matter interacts through the bare color force. Theoretical studies of the properties of matter require Lattice QCD. The current understanding is that the nature of the transition from a state of hot hadronic gas to a plasma depends on the baryon chemical potential, which is a measure of the ratio of quarks to anti-quarks. A cross-over transition is expected at low baryon chemical potential, while at high baryon chemical potential the transition is expected to be first order. A systematic study of heavy-ion collisions across a broad range of beam energy can create QCD plasma with a broad spectrum of chemical potentials. The RHIC facility has embarked on such a study to try to experimentally map out the nature of the QCD phase diagram. Follow-up studies are planned in 2019 and 2020. The energy range of this follow-up scan can be extended with a fixed-target program.</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Thursday, February 23, 2017  at 4pm
+<ul>
+ 	<li><strong>Title</strong>: STAR High Level Trigger</li>
+ 	<li><strong>Speaker</strong>: Hongwei Ke (BNL)</li>
+ 	<li><strong>Abstract</strong>: We implemented a High-Level Trigger (HLT) system for the STAR experiment to better utilize the luminosity delivered by RHIC. By reconstructing tracks and assembling data from multiple detectors, STAR HLT can select events of great physics interests online, which will reduce the data volume to tape, speed up offline physics analysis and provide vital online monitoring information. In the past a few years, a series of important physics achievements and programs of STAR have benefited from HLT, including the discovery of anti-alpha particles, the first J/\Psi elliptic flow measurement, the Beam Energy Scan program phase I and more recently the STAR heavy flavor tracker and muon telescope detector program. Currently, STAR HLT has 10 times of the computing resources than we had in 2012, which contains about 1200 CPU cores and 45 Xeon Phi (KNC) coprocessors. In this talk, I will discuss the development of STAR HLT, lessons we learned of using such a heterogeneous system and most importantly the physics opportunities opened with these resources.</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Thursday, February 16, 2017  at 2pm
+<ul>
+ 	<li><strong>Title</strong>:Underlying-event Activity in Proton+Proton Collisions at sqrt(s_NN) = 200GeV with the STAR Detector at RHIC</li>
+ 	<li><strong>Speaker</strong>: Li Yi (Yale)</li>
+ 	<li><strong>Abstract</strong>: Underlying-event activity is defined as the soft particle production in proton+proton collisions which is not directly related to the final fragmentation of hard-scattered partons. Underlying-event measurements therefore provide a tool to study non-factorizable and non-perturbative phenomena. Systematic measurements of the relationship between the underlying event and jet processes  are crucial for a complete description of both soft and hard QCD processes at hadron colliders and for Monte Carlo modeling. In this talk, we will report the progress of underlying-event measurements in proton+proton collisions at RHIC by STAR and its comparison with Monte Carlo tuning. The comparison between RHIC and LHC energy underlying-event activities will also be discussed.</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Thursday, November 3, 2016  at 4pm
+<ul>
+ 	<li><strong>Title</strong>: A new approach to Higgs Effective Field Theory</li>
+ 	<li><strong>Speaker</strong>: Kyle Cranmer (NYU)</li>
+ 	<li><strong>Abstract</strong>: Detailed characterization of the Higgs particle in the language of Effective Field Theory is one of the science drivers for the LHC and potential future colliders. Deviations from the Standard Model Higgs expectation are typically encoded in subtle deviations and correlations in event kinematics. This motivates the use of multivariate techniques that take advantage of a high-dimensional representation of each event. Surprisingly, our field doesn’t have a good technique for measuring parameters of a theory when one needs to incorporate a complicated detector response and wants to take advantage of the information of a high-dimensional observation. I will outline a novel “likelihood-free” inference technique that addresses this problem and its application to Higgs Effective Field Theory.</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Friday, October 14, 2016  at 3pm
+<ul>
+ 	<li><strong>Title</strong>: Searches for Supersymmetry with the CMS Detector</li>
+ 	<li><strong>Speaker</strong>: Darin Acosta (Univ. of Florida)</li>
+ 	<li><strong>Abstract</strong>: Supersymmetry is a proposed extension to the Standard Model of particle physics that introduces bosonic (fermionic) partners for every known fermion (boson). It can address several issues in particle physics such as electroweak fine-tuning, unification of the gauge couplings, and dark matter. However, despite many years of searching, no evidence for Supersymmetry has yet been found. For the past year the LHC has been operating at its highest proton-proton collision energy of 13 TeV and is well positioned to explore the TeV mass scale favored by Supersymmetry. This presentation will summarize the status of searches for Supersymmetry at the LHC using data collected by the CMS detector.</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Thursday September 15, 2016  at noon
+<ul>
+ 	<li><strong>Title</strong>: Proton therapy from a Nuclear/Particle Physicist Perspective</li>
+ 	<li><strong>Speaker</strong>: Pablo Yepes (Rice University)</li>
+ 	<li><strong>Abstract</strong>:  Radiation therapy or surgery is needed for nearly all forms of solid cancer. Among the various modalities of radiotherapy, protons should provide the best approach to minimize secondary effects, due to their physical properties. However, proton therapy is a relative new technology. Accurate dose calculations are expected to play an important role in bringing this new technology to its full potential. The challenges and work to overcome them will be presented.</li>
+</ul>
+&nbsp;
+
+&nbsp;
+
+<hr />
+
+<h2><span style="text-decoration: underline;"><strong>2015/2016</strong></span></h2>
+&nbsp;
+
+<strong>Date</strong>: Monday May 16, 2016  at 4pm
+<ul>
+ 	<li><strong>Title</strong>:  Searches for Dark Matter and invisible decays of the Higgs boson with the CMS detector at the LHC</li>
+ 	<li><strong>Speaker</strong>: Darien Wood (NEU)</li>
+ 	<li><strong>Abstract</strong>: While the gravitational evidence for the existence of Dark Matter (DM) is overwhelming, there is no good DM candidate among the particles of the Standard Model, and there is no evidence yet for non-gravitational interactions between DM and Standard Model particles. A search is described for evidence of particle DM production with a signature containing two charged leptons, consistent with the decay of a Z boson, and large missing transverse momentum. This study is based on data collected with the CMS detector corresponding to an integrated luminosity of 19.7 fb-1 of proton-proton collisions at the LHC at a center-of-mass energy of 8 TeV. The results are interpreted in terms of limits on the DM-nucleon scattering cross section, as a function of the DM particle mass, for both spin-dependent and spin-independent scenarios.A related study searches for invisible decays of Higgs bosons in associated ZH production, using the same final state with a Z boson and missing transverse mometum. The study uses the full 2011 and 2012 data samples at 7 TeV and 8 TeV, respectively. The search is sensitive to non-Standard-Model invisible decays of the recently observed Higgs boson, as well as additional Higgs bosons with similar production modes and large invisible branching fractions. By assuming Standard Model Higgs boson cross sections and acceptances, an upper limit is obtained on the invisible branching fraction of the Higgs boson. The limit is also interpreted in terms of a Higgs-portal model of DM interactions.</li>
+</ul>
+&nbsp;
+
+<strong>Date: </strong>Thursday May 5, 2016  at 4pm
+<ul>
+ 	<li><strong>Title</strong>: Super Symmetric Top Squark Search in the 0-lepton Final State</li>
+ 	<li><strong>Speaker</strong>: James Zabel (Rice University)</li>
+ 	<li><strong>Abstract</strong>: A search for Super Symmetric top quark partners, or top squarks, is presented.  The search focuses on zero lepton final states resulting from a variety of decay modes.  The data collected result from proton-proton collisions generated by the LHC with a center-of-mass energy of 13 TeV, were recorded by the CMS detector, and correspond to an integrated luminosity of 2.3 fb-1.  Events are categorized by the properties of reconstructed jets, the presence of bottom quark candidates, the presence of top quark candidates, and missing transverse momentum.  No statistically significant excess of events above the expected contribution from standard model processes is observed. Exclusion limits are set in the context of simplified models of top squark pair production.</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Thursday April 21, 2016  at noon
+<ul>
+ 	<li><strong>Title</strong>: Event-by-event hydrodynamics + jet energy loss: A solution to the RAA x  v2 puzzle</li>
+ 	<li><strong>Speaker</strong>: Jorge Noronha (Sao Paolo)</li>
+ 	<li><strong>Abstract</strong>: High pT &gt; 10 GeV elliptic flow, which is experimentally measured via the correlation between soft and hard hadrons, receives competing contributions from event-by-event fluctuations of the low pT elliptic flow and event plane angle fluctuations in the soft sector. A proper account of these event-by-event fluctuations in the soft sector, modeled via viscous hydrodynamics, combined with a jet energy loss model reveal that the positive contribution from low pT elliptic fluctuations overwhelms the negative contributions from event plane fluctuations, which leads to an enhancement of high pT elliptic flow in comparison to previous calculations. This provides a natural solution to the decade long RAA x v2 puzzle in heavy ion collisions. We also present the first theoretical calculation of high pT triangular flow, which is shown to be compatible with current LHC data. Furthermore, we discuss how short wavelength jet-medium physics can be deconvoluted from the physics of soft, bulk event-by-event flow observables using event shape engineering techniques.</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Thursday April 7, 2016  at 4pm
+<ul>
+ 	<li><strong>Title</strong>: Exploring The Dynamics Of Strongly Interacting Media With Dilepton Tomography</li>
+ 	<li><strong>Speaker</strong>: Gojko Vuljanovic (OSU)</li>
+ 	<li><strong>Abstract</strong>: Although rarely produced, electromagnetic (EM) probes provide direct insight into the new phase of matter produced in relativistic heavy-ion collisions: the Quark-Gluon Plasma (QGP). Lepton pairs (dileptons) radiated from the thermalized strongly-interacting medium are a class of EM probes that can isolate the thermal radiation from the early QGP phase of the medium. Indeed, QGP preferentially emits dileptons at high center of mass energy of the pairs (or high invariant mass), while low invariant mass dileptons originate from the late hadronic phase of medium. Having direct access to the QGP allows to investigate its dynamical properties using a 3+1D hydrodynamical simulation. Recently, much attention has been dedicated to the study of shear viscosity and its effects on the evolution of the medium created in heavy-ion collisions, through analyses of the hadronic final states. We show that thermal dileptons produced during Au-Au collisions at the top beam energy of the Relativistic Heavy Ion Collider (RHIC) give access to the temperature dependence of shear viscosity in the QGP phase, while also allowing to study the effects varying the relaxation time of shear viscous pressure on dilepton radiation. Furthermore, RHIC has published dilepton data from its Beam Energy Scan (BES) program, thus probing nuclear media at increasing net baryon densities. Through dilepton radiation, we examine the importance of baryon currents on the entire evolution of the medium.</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Thursday March 10, 2016  at 4pm
+<ul>
+ 	<li><strong>Title</strong>: Nuclear Gluon Effects In Gamma+Pb Collisions at the LHC</li>
+ 	<li><strong>Speaker</strong>: Daniel Tapia Takaki (Univ. Kansas)</li>
+ 	<li><strong>Abstract</strong>: By studying quarkonia photo-nuclear production, the ALICE and CMS collaborations have recently provided experimental evidence of nuclear gluon effects in gamma+Pb interactions at unprecedentedly low Bjorken-x values in the Pb nucleus. In this talk, an experimental and theoretical review about these studies will be given. The prospect of innovative measurements using the run 2 data at the LHC will be described.</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Thursday March 3, 2016  at 4pm
+<ul>
+ 	<li><strong>Title</strong>: RHIC Beam Energy Scan as a window to new physics</li>
+ 	<li><strong>Speaker</strong>: Olena Linnyk (Giessen)</li>
+ 	<li><strong>Abstract</strong>: Using a microscopic transport approach PHSD allows us to connect the particle yield, asymmetry and spectra measurements in heavy-ion collisions to the underlying physics phenomena, such as the chiral symmetry restoration, onset of deconfinement, transport coefficients of the QCD matter, thermodynamic properties of the produced medium. Heavy ion collisions at different center-of-mass energies of the BES stage I and II are simulated. We will present comparisons to the existing data and the calculations for the energies and observables relevant in the future, concentrating on the signals from the production of dileptons, charm and strangeness.</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Thursday February 25, 2016  at 4pm
+<ul>
+ 	<li><strong>Title</strong>: SoLID Program at Jefferson Lab</li>
+ 	<li><strong>Speaker</strong>: Jianping Chen (JLab)</li>
+ 	<li><strong>Abstract</strong>: Jefferson Lab 12 GeV energy upgrade opens up a new frontier for precision studies of nucleon structure and precision tests of the Standard Model. To fully exploit the potential of the upgrade, a new large acceptance device, SoLID, was proposed and designed to be able to handle very high luminosity. The new capability of SoLID allows the study of the transverse momentum dependent quark distributions of the nucleon in the valence quark region to reach the ultimate precision. The SoLID parity-violating deep-inelastic-scattering experiment will provide a precision test of the Standard Model with an equivalent energy reach comparable to LHC experiments. SoLID also offers a new capability to perform measurements of J/Psi production in the threshold region to study the gluon dynamics of strong QCD. The SoLID physics program will be discussed in details along with the current status of the SoLID project.</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Thursday January 28, 2016  at 4pm
+<ul>
+ 	<li><strong>Title</strong>: The Hadron pT Distribution in High-Energy pp Collisions and its Implications</li>
+ 	<li><strong>Speaker</strong>: Cheuk-Yin Wong (ORNL)</li>
+ 	<li><strong>Abstract</strong>: Transverse momentum distribution of jets and hadrons provide useful information on the collision mechanisms and their subsequent dynamics. It was found recently that the hadron spectra spanning over 14 decades of magnitude from the lowest of ~0.5 GeV/c to the highest $p_T$ of a few hundred GeV/c at central rapidity in pp collisions at LHC can be adequately described by a single Tsallis distribution with only three apparent degrees of freedom [1].  The simplicity of the p_T spectrum suggests that a single mechanism dominates over a large pT domain at central rapidity in these high-energy collisions.  As the high-$p_T$ region is known to arise from the relativistic hard-scattering process at high pT, one is led to the suggestion that the hard-scattering process dominates over a very large pT domain in these high-energy pp collisions. We shall explore the implications of the pT distribution on many related topics of the diminishing role of the competing flux-tube fragmentation [2] and the initial conditions for the momentum kick model of the near-side ridge in pp collisions [3].  [1]  C.Y.Wong and G.Wilk, Acta Phys. Pol. {B43}, 2047 (2012); C.Y.Wong and G.Wilk, Phys. Rev. {D87},114007 (2013); C. Y. Wong, G. Wilk, L. J. L. Cirto and C. Tsallis,  Phys. Rev. {D91}, 114027 (2015). [2]  C.Y.Wong, Phys.Rev. {D92}, 074007 (2015). [3]  C.Y.Wong, Phys.Rev. {C84}, 024901 (2011).</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Thursday November 12, 2015  at 4pm
+<ul>
+ 	<li><strong>Title</strong>: First Oscillation Results from NOvA</li>
+ 	<li><strong>Speaker</strong>: Satish Desai (Univ. of Minnesota)</li>
+ 	<li><strong>Abstract</strong>: NOvA is an off-axis long baseline neutrino oscillation experiment studying electron neutrino appearance and muon neutrino disappearance using the Fermilab NuMI beam.  It consists of functionally identical tracking calorimeters, one located at Fermilab, the other 810 km away in Ash River, Minnesota.  The NOvA collaboration has recently released its first oscillation results, including evidence for electron neutrino appearance and measurements of muon neutrino disappearance.  I will describe the NOvA detectors, the calibration and analysis methods and finally present our first results.</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Thursday October 8, 2015  at noon
+<ul>
+ 	<li><strong>Title</strong>: Use of PET for proton therapy/range verification and for hybrid/bimetallic nanoparticles</li>
+ 	<li><strong>Speaker</strong>: Jongmin Cho (OSU)</li>
+ 	<li><strong>Abstract</strong>:
+<ul>
+ 	<li>1<sup>st</sup> talk (20 min): <em>Hydrogel fiducial markers for proton range verification</em>. Proton range verification is a very important issue in proton radiation therapy since critical organs can be located just beyond the proton range. <sup>18</sup>O, <sup>63</sup>Cu and <sup>68</sup>Zn were studies as proton range verification materials since they are strongly activated by low energy protons and decay with positron emissions. We used some of these elements to develop patient implantable hydrogel fiducial markers which are PET visible. They can be used as universal fiducial markers due to their CT/PET/MRI/US visibility and also as the proton therapy/range verification markers.</li>
+ 	<li>2<sup>nd</sup> talk (20 min): <em>Hybrid bimetallic nanoparticles for radiotherapy and molecular imaging </em>We developed hybrid bi-metallic nanoparticles – Zn@Au (Zn core and Au shell). When irradiated with protons using a medical cyclotron, the Zn cores are activated to decay with positron emission with relatively long half-lives. Therefore, PET imaging shows the <em>in-vivo</em> distribution of those injected nanoparticles. The developed Zn@Au nanoparticles have near identical radiosensitization as gold nanoparticles (GNPs) of the same size. Therefore, the Zn@Au nanoparticles may enable PET image guided GNP mediated radiation therapy as well as molecular imaging.</li>
+ 	<li>3<sup>rd</sup> talk (10 min): <em>Introduction to Oklahoma State University Medical Physics Program.</em>
+<ul>
+ 	<li><a href="https://research.okstate.edu/venture-i">https://research.okstate.edu/venture-i</a></li>
+ 	<li><a href="http://physics.okstate.edu/www/medical-physics.html">http://physics.okstate.edu/www/medical-physics.html</a></li>
+ 	<li><a href="http://physics.okstate.edu/">http://physics.okstate.edu</a></li>
+</ul>
+</li>
+ 	<li>QA session (10 min)</li>
+</ul>
+</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Thursday September 17, 2015  at noon
+<ul>
+ 	<li><strong>Title</strong>: Clinical Research using the Monte Carlo Method</li>
+ 	<li><strong>Speaker</strong>: Uwe Titt (MD Anderson)</li>
+ 	<li><strong>Abstract</strong>:  This presentation will introduce the Monte Carlo method and discuss its application in the context of medical physics projects performed at the University of Texas, M. D. Anderson Cancer Center. The MCNPX Monte Carlo code was applied to solve numerous problems, among which were the development of a novel photon radiotherapy modality using a flattening filter free clinical accelerator, the configuration and testing of a proton therapy treatment planning system, proton beam modification devices and automated Monte Carlo simulation of actual proton therapy treatment plans.</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Thursday September 3, 2015  at 4pm
+<ul>
+ 	<li><strong>Title</strong>: Open Heavy Flavor Measurements at STAR</li>
+ 	<li><strong>Speaker</strong>: David Tlusty (Rice University)</li>
+ 	<li><strong>Abstract</strong>: In relativistic heavy ion collisions at RHIC, heavy quarks are expected to be created from initial hard scatterings. Since heavy quarks have large masses, long life time, and negligible annihilation due to their small population, the number of heavy quarks is conserved during whole medium evolution. The interaction between heavy quarks and the medium is sensitive to the early medium dynamics, therefore heavy quarks are suggested as an ideal probe to quantify the properties of the strongly interacting QCD matter.In this talk, we report on recent STAR results of heavy flavor production at $\sqrt{s_{NN}}$ = 39, 62.4, 193, 200 and 500 GeV in p+p, Au+Au and U+U collisions. We present nuclear modification factor and elliptic flow of open charm mesons and electrons from semileptonic decays of heavy flavor hadrons. STAR data are compared to theoretical model calculations and physics implications are discussed.</li>
+</ul>
+&nbsp;
+
+<hr />
+
+<h2><strong><span style="text-decoration: underline;">2014/2015</span></strong></h2>
+&nbsp;
+
+<strong>Date</strong>: Monday April 27, 2015  at noon
+<ul>
+ 	<li><strong>Title</strong>: Bose-Einstein correlations: a means to probe stellar and femto scales</li>
+ 	<li><strong>Speaker</strong>: Sandra Padula (Universidade Estadual Paulista, Sao Paolo, Brazil)</li>
+ 	<li><strong>Abstract</strong>: Bose-Einstein correlations were behind the phenomenon that allowed to estimate star dimensions in the mid-fifties. At the turn of that decade, on a strike of serendipity, a similar phenomenon was discovered in antiproton-proton collisions at the highest available energies at that time.  Ever since, this technique has been applied to very different systems and energies, allowing to study their dimensions. In this talk, an overview of the phenomenon and some examples of the results achieved along decades will be discussed, finalizing with recent results obtained at the LHC.</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Wednesday April 22, 2015  at noon
+<ul>
+ 	<li><strong>Title</strong>: The Quark Recombination Model and Applications in High Energy Collisions</li>
+ 	<li><strong>Speaker</strong>: Rainer Fries (Texas A&amp;M)</li>
+ 	<li><strong>Abstract</strong>: Quarks, usually captives of confinement, can be liberated in high energy collisions either at small distance scales or at high temperatures. The process of re-hadronization of quarks in such collisions is a complicated problem in quantum chromodynamics which is not fully solved. Since ultimately hadrons, or their decay products, are measured in detectors, effective descriptions and hadronization models are usually used to to describe this important step in a collision. In this talk I will argue why quark recombination or coalescence models have their place in our toolbox, and what they have achieved specifically when describing collisions of nuclei at high energies.. I will end with a look at some recent developments, including a project to describe the hadronization of QCD jets in the presence of quark gluon plasma.</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Tuesday April 21, 2015 at noon
+<ul>
+ 	<li><strong>Title</strong>: Studies of GeV-scale WIMPs using charge signals at XENON100</li>
+ 	<li><strong>Speaker</strong>: Richard Wall (Rice Univ.)</li>
+ 	<li><strong>Abstract</strong>: Various theoretical models and recent experimental results have led to growing interest in the search for WIMP-like dark matter in the mass range of a few GeV.  One important class of detector used in this study is based on the liquid-gas, dual-phase Xenon time projection chamber (as in XENON100 and LUX).  These detectors nominally use both scintillation and ionization signals to define their fiducial volume and reject background events, and are, to date, most sensitive to WIMPs on the 10-100 GeV scale.  Using only the ionization signal, it is possible to achieve greater sensitivity to WIMPs with a mass on the scale of 1 GeV, as the scintillation detection efficiency for these recoils is, on average, quite low.  With this in mind, we present the a study of ionization signals using data collected by the XENON100 detector, with an eye towards improving the collaboration’s limit on WIMPs in this region.</li>
+</ul>
+<div></div>
+<div><strong>Date</strong>: Tuesday March 31, 2015 at noon</div>
+<ul>
+ 	<li><strong>Title</strong>: Electron-Positron Tomography of Quark-Gluon Plasma</li>
+ 	<li><strong>Speaker</strong>: Lijuan Ruan (BNL)</li>
+ 	<li><strong>Abstract</strong>: Electron-positron pairs are penetrating probes of Quark-Gluon Plasma created in relativistic heavy ion collisions. They can provide information deep into the system and early time. At STAR, we use electron-positron tomography to study chiral symmetry, temperature, and lifetime of hot, dense medium. In this talk, I will review recent results and discuss future perspectives.</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Tuesday  March 24, 2015 at noon
+<ul>
+ 	<li><strong>Title</strong>: The chiral magnetic effect: from quark-gluon plasma to Dirac semimetals, and back</li>
+ 	<li><strong>Speaker</strong>: Dimitri Kharzeev (SUNY Stony Brook)</li>
+ 	<li><strong>Abstract</strong>: Chirality (“handedness”) is an ubiquitous concept in modern science, from particle physics to biology. Recently it has been realized that chirality has dramatic implications for the macroscopic behavior of systems with chiral particles. In particular, the imbalance between the densities of left- and right-handed fermions in the presence of magnetic field induces the non-dissipative transport of electric charge (“the Chiral Magnetic Effect”, CME) analogous to superconductivity. In quark-gluon plasma, this leads to the charge asymmetry studied in the experiments at Relativistic Heavy Ion Collider and the Large Hadron Collider. Chirality defines the unique properties of recently discovered Dirac semimetals. I will report the observation of CME in a Dirac semimetal ZrTe5, and discuss the implications for heavy ion experiments.</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Tuesday  March 17, 2015 at noon
+<ul>
+ 	<li><strong>Title</strong>: Exploring the Gluon Spin Structure of the Proton using the STAR Detector at RHIC</li>
+ 	<li><strong>Speaker</strong>: Grant Webb (BNL)</li>
+ 	<li><strong>Abstract</strong>: After 20 years of experimental efforts the individual parton (quarks and gluons) con- tributions to the spin of the nucleon has not been solved. Precise measurements in po- larized deep inelastic scattering clearly indicate that the spin of the nucleon cannot be explained by the contribution of the quarks alone. The polarized proton-proton collider at RHIC provides direct access to the gluon spin distribution through longitudinal double spin asymmetry measurements of inclusive jets, pions, and dijets. The STAR detector, with its full azimuthal coverage, grants excellent jet reconstruction capabilities. This presentation will focus on the methods used to determine the polarization of the proton beams required to extract any spin dependent result. In addition, the jet reconstruction process and the recent spin results from STAR will be discussed and the impact they have on constraining the gluon spin contribution to the proton’s spin.</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Thursday March 12, 2015  at 4pm
+<ul>
+ 	<li><strong>Title</strong>: CMS pixel detector phase-1 upgrade</li>
+ 	<li><strong>Speaker</strong>: Bora Akgun (Rice Univ)</li>
+ 	<li><strong>Abstract</strong>: The CMS pixel detector is at the centre of the CMS experiment and is made of three barrel layers and four endcap disks. It is essential for the reconstruction of track seeds and secondary vertices.  The CMS experiment is going to upgrade its pixel detector during Run 2 of the Large Hadron Collider. The new detector will provide an additional tracking layer and increased rate capability, suitable for the projected instantaneous luminosities of Run 2, well beyond the original design targets of the present pixel detector.</li>
+</ul>
+<div></div>
+<div><strong>Date</strong>: Tuesday February 17, 2015  at noon</div>
+<ul>
+ 	<li><strong>Title</strong>: The New g-2 Experiment at Fermilab</li>
+ 	<li><strong>Speaker</strong>: Mandy Rominsky (Fermilab)</li>
+ 	<li><strong>Abstract</strong>: The measurement of the anomalous magnetic moment of the muon provides a test of the standard model and a handle on physics beyond the standard model. There is currently a 3 sigma discrepancy between theory and experiment. With 20 times the statistics and a factor of 4 improvement in the systematic errors, a new experiment at Fermilab aims to resolve this difference. In this talk I’ll discuss the experiment and our recent progress.</li>
+</ul>
+<div></div>
+<div><strong>Date</strong>: Tuesday November 4, 2014 at noon</div>
+<ul>
+ 	<li><strong>Title</strong>: Left-right bias in high energy polarized e+n, p+p and p+A collisions</li>
+ 	<li><strong>Speaker</strong>: Xiaodong Jiang (LANL)</li>
+ 	<li><strong>Abstract</strong>: Over the last three decades, large single-spin asymmetries have been observed in high energy polarized p?+p?hadron+X reactions on transversely polarized protons. According to perturbative QCD, this type of parity-conserving left-right asymmetry should be very small if produced from collinear quarks. However, when transverse momentum is considered, single-spin asymmetries can be generated either through quarks` angular motion or through transverely polarized quarks’ fragmentation processes. In the last decade, similar single-spin asymmetry phenomena have also been observed in semi-inclusive deep-inelastic scattering (e+N??e’+h+X), and very recently in inclusive hadron productions (e+N??h+X), on transversely polarized targets.I will describe recent experimental results and introduce upcoming transverse single-spin asymmetry measurements for polarized target Drell-Yan production at Fermilab (E1039, p+p? ?mu+mu- X), and for prompt photon and neutral pion productions in p?+p and p?+A collisions with the PHENIX experiment at RHIC</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Tuesday  October 21, 2014 at noon
+<ul>
+ 	<li><strong>Title</strong>: Transverse Geometry of the Hard and Soft pp and pA Collisions at the LHC</li>
+ 	<li><strong>Speaker</strong>: Mark Strikman (PSU)</li>
+ 	<li><strong>Abstract</strong>: Decades of studies of hard QCD phenomena provided a precision picture of the distribution of proton constituents (quarks and gluons) over the fraction of energy, x, which they carry in fast nucleons. More recently, studies of the hard exclusive processes provided first information about three dimensional structure of fast nucleons – the x-dependent impact parameter single parton distributions in the nucleon and led to the two scale geometric picture of the proton – proton interactions at the LHC. I will review how this picture explains a number of regularities of hadron production observed at the LHC, and reveals presence of the parton – parton correlations in nucleons. I will also present evidence for existence of significant fluctuations of gluon strength in nucleons as well as fluctuations of the overall strength of the interactions and discuss implications for pp and pA collisions.</li>
+</ul>
+
+<hr />
+
+<span style="text-decoration: underline;"><strong>2013/2014</strong></span>
+<div>
+<h3 id="post-770"></h3>
+<div>
+
+<strong>Date</strong>: Thursday Wednesday May 1, 2014 at 1h30pm
+<ul>
+ 	<li><strong>Title</strong>:  A pedagogical introduction to anomalies in conformal quantum mechanics and some potential applications in cold-atom and graphene systems</li>
+ 	<li><strong>Speaker</strong>: Carlos Ordonez (UH)</li>
+ 	<li><strong>Abstract</strong>: The breaking of a classical symmetry at the quantum level as a consequence of the quantization procedure is known as an anomaly (quantum). Anomalies in quantum field theory (chiral, gauge) have a long history and their impact in particle and gravitational physics (including strings) is well known.  Anomalies in quantum mechanics (non-relativistic systems) also exist, although they are not as well-known.  I will describe how these anomalies arise in systems described by conformal quantum mechanics (CQM), following the work of my group at UH. I will also mention some recent applications to cold atoms and possible applications to graphene physics.  The latter is very recent.  The first half of the talk will be dedicated to showing in detail how the anomalies arise in the concrete case of a two-dimensional delta function potential. There rest of the talk will emphasize the (possible) applications.  The emphasis of the talk will be on the conceptual aspects and it will be pedagogical in nature. My hope is that people in the audience (from high-energy, condensed-matter and AMO-physics backgrounds) will find this topic interesting and of potential use in their research.</li>
+</ul>
+</div>
+</div>
+<div>
+<div>
+
+&nbsp;
+
+<strong>Date</strong>: Wednesday April 16, 2014 at noon
+<ul>
+ 	<li><strong>Title</strong>:  Asymmetry in production of top quarks</li>
+ 	<li><strong>Speaker</strong>: Regina Demina (Rochester)</li>
+ 	<li><strong>Abstract</strong>: Results from the Tevatron experiments suggest that there is a forward-backward asymmetry in the production of the top and antitop quarks, namely the top quark is emitted preferentially in the direction of the initial proton. I will review the latest results on the asymmetry measurement from the Tevatron. Kinematic dependencies of these asymmetries are discussed. I will also comment on the consistency of the Tevatron and LHC data.</li>
+</ul>
+</div>
+&nbsp;
+
+<strong>Date</strong>: Tuesday  April 8, 2014 at noon
+
+</div>
+<div>
+<ul>
+ 	<li><strong>Title</strong>: Latest Top-Higgs Coupling Results from ATLAS</li>
+ 	<li><strong>Speaker</strong>: Peter Onyisi (UT Austin)</li>
+ 	<li><strong>Abstract</strong>: The Yukawa coupling of the Higgs boson to the top quark is one of the fundamental parameters of the Standard Model, and its size probes whether the electroweak symmetry breaking mechanism and the fermion mass generation mechanism are the same.  Indirect measurements of this quantity – determined from Higgs production via top quark loops – are available, but suffer from ambiguity with possible new physics in the loop diagrams.  In contrast we can constrain the Yukawa coupling with tree diagrams using the cross-section of associated production of the Higgs boson with a top quark pair (ttH).  I will discuss the latest ATLAS seaches for ttH production in the H -&gt; gamma gamma and H -&gt; bb decays and some projections for the future.</li>
+</ul>
+</div>
+&nbsp;
+
+<strong>Date</strong>: Tuesday  March 18, 2014 at noon
+<div>
+<ul>
+ 	<li><strong>Title</strong>: Imaging the proton with multi-particle correlations at the LHC</li>
+ 	<li><strong>Speaker</strong>: Kevin Dusling (PRL)</li>
+ 	<li><strong>Abstract</strong>: The Large Hadron Collider at CERN is able to study the structure of the proton at shorter time scales and higher resolution then ever before. The first year of operation brought an entirely unexpected discovery; in proton-proton collisions a peculiar correlation between particles traveling in opposite directions was uncovered in extremely rare events. More recently, a similar correlation was observed in high multiplicity proton-lead collisions. We discuss the implications of these measurements on our understanding of the proton at high energies.</li>
+</ul>
+</div>
+&nbsp;
+
+<strong>Date</strong>: Tuesday  March 18 at 4:15pm
+<div>
+<ul>
+ 	<li><strong>Title</strong>: Physics of the High Luminosity LHC Upgrade</li>
+ 	<li><strong>Speaker</strong>: Jay Hauser (UCLA)</li>
+ 	<li><strong>Abstract</strong>: Following the discovery of the Higgs particle at CERN in 2012, a high luminosity upgrade program, HL-LHC, promises 6-10 times more proton-proton collisions than the current LHC accelerator by 2025.  With the increased number of collisions, as well as improvements to the main LHC detectors ATLAS and CMS, comes an improved physics measurement program.  For instance, it should be possible to make more precise measurements of the properties of Higgs and top quark particles, extend the reach of Supersymmetric particle searches, and improve searches in general for physics beyond the standard model. This talk addresses the question of whether the physics potential is worth the very large effort involved in the LHC accelerator and detector improvements.</li>
+</ul>
+</div>
+&nbsp;
+
+<strong>Date</strong>: Monday March 17, 2014  at 12:15pm
+<div>
+<ul>
+ 	<li><strong>Title</strong>:  Search for Muon to Electron Conversion at J-PARC – the COMET Experiment</li>
+ 	<li><strong>Speaker</strong>: Yoshitaka Kuno (Osaka Univ.)</li>
+ 	<li><strong>Abstract</strong>: Muon to electron conversion in a muonic atom is a process of charged lepton flavor violation (CLFV). The COMET experiment aims to search for muon to electron conversion at J-PARC with single-event sensitivity of 3×10^{-17} which is about 10,000 improvement over the current limit. Recently the COMET experiment has taken a staged approach, COMET Phase-I, as the first phase, aims at a single-event sensitivity of 3×10^{-15} with a partial part of the full muon beam line and a Phase-I dedicated detector in the order of about 10^{6} sec. The funds for COMET Phase-I has been approved as the supplemental budget, and the construction has started in 2013. The physics run is expected to start in 2016. The COMET Phase-II will follow immediately. In this talk, I will describe physics motivation of CLFV, and the details of COMET Phase-I / Phase-II together with the current status.</li>
+</ul>
+</div>
+&nbsp;
+
+<strong>Date</strong>: Tuesday March 11, 2014  at 11am
+<div>
+<ul>
+ 	<li><strong>Title</strong>: Dileptons and chiral symmetry restoration</li>
+ 	<li><strong>Speaker</strong>: Paul Hohler (TAMU)</li>
+ 	<li><strong>Abstract</strong>: A long standing goal in heavy ion physics is to identify an experimental signal for chiral symmetry restoration. Ideally this can be achieved by comparing the in-medium spectral functions of chiral partners, such as the light vector and axial-vector mesons (rho and a1). While the in-medium rho spectral function can be obtained from interpretations of dilepton data in heavy ion collisions, measuring the in-medium a1 spectral function remains elusive. This talk will thus discuss theoretical techniques which can be used to calculate the in-medium axial-vector spectral function given a rho spectral function which describes available dilepton data so that the question of chiral symmetry can be critically addressed. We will demonstrate that the combination of QCD and Weinberg sum rules provide a powerful selection method for the axial-vector spectral functions. Using this at different temperatures, we can obtain a temperature progression from the vacuum towards restoration, and show that experimental results of the vector channel suggest compatibility with restoration.  Results will also be presented from an effective theory approach which can calculate the spectral functions in both channels in vacuum and in-medium from a microscopic perspective. This serves as a foundation for future systematic studies in this area.</li>
+</ul>
+</div>
+&nbsp;
+
+<strong>Date</strong>: Tuesday March 4, 2014  at noon
+<ul>
+ 	<li><strong>Title</strong>: Current status of XENON dark matter search</li>
+ 	<li><strong>Speaker</strong>: Junji Naganoma (Rice University)</li>
+ 	<li><strong>Abstract</strong>: I will present results from XENON100 dark matter search, status of XENON1T design and construction, and ongoing R&amp;D project using liquid xenon.</li>
+</ul>
+<div>
+
+&nbsp;
+
+<strong>Date</strong>: Tuesday  Febr. 18, 2014, at noon
+<ul>
+ 	<li><strong>Title</strong>: Jet physics with heavy ions at the LHC</li>
+ 	<li><strong>Speaker</strong>: Ivan Vitev (LANL)</li>
+ 	<li><strong>Abstract</strong>: In the past several decades, advances in the theory of strong interactions can be traced through theoretical and experimental developments in understanding the physics of jets in high-energy collider experiments. Jets have been instrumental in establishing Quantum Chromodynamics (QCD) and the parton model. Jet physics is the frontier where nuclear and particle physics intersect. In this talk, I will describe the theory that underlays jet production in ultra-relativistic collisions of heavy nuclei at the Large Hadron Collider (LHC).  I will show how insightful choices of experimental observables can help elucidate the differences between vacuum and in-medium parton showers and pinpoint the properties of the quark-gluon plasma (QGP) produced in heavy ion reactions. Toward the end of the talk I will discuss a new effective theory of jet propagation in matter that is being developed with the goal of improving heavy ion phenomenology.</li>
+</ul>
+</div>
+&nbsp;
+
+<strong>Date</strong>: Tuesday December 3, 2013 at 4pm
+<div>
+<div>
+<ul>
+ 	<li><strong>Title</strong>: Results from Daya Bay</li>
+ 	<li><strong>Speaker</strong>: Lisa Whitehead (UH)</li>
+ 	<li><strong>Abstract</strong>: Experimental observations have established that neutrinos undergo ﬂavor oscillations as they propagate due to quantum mechanical mixing between the mass states and ﬂavor states. The Daya Bay reactor neutrino experiment has observed the disappearance of electron-type antineutrinos from nuclear reactor cores at the Daya Bay Power Plant located in China. This observation allowed Daya Bay to make a measurement of the last neutrino mixing angle, theta_13, which was previously only known to be small in comparison to the other neutrino mixing angles. In this talk, I will discuss the most recent results from Daya Bay, a measurement of the energy dependence of reactor antineutrino disappearance.</li>
+</ul>
+<div></div>
+<div> <strong>Date</strong>: Tuesday Nov.26, 2013 at noon</div>
+</div>
+</div>
+<div>
+<div>
+<ul>
+ 	<li><strong>Title</strong>: LHC: Shedding Light on the Dark Sectors of the Universe</li>
+ 	<li><strong>Speaker</strong>: Alexei Safonov (TAMU)</li>
+ 	<li><strong>Abstract</strong>: This talk will discuss recent searches for evidence of new light bosons</li>
+ 	<li>decaying to pairs of muons using the LHC collision data collected by the CMS experiment at CERN. These particles are predicted in the extensions of the Standard Model explaining the discrepancy in the satellite experiments’ measured positron fraction by the annihilation of TeV-scale dark matter in the galactic halo as well as by the Next-to-Minimal Supersymmetric models, which address several of the major issues of conventional SUSY. In these scenarios, the new bosons are associated with new hidden (dark) sectors and only very weakly couple to the Standard Model particles making them virtually undetectable in earlier experiments. The LHC can provide access to these particles via the production of Higgs bosons that can contain these new hidden particles in their decay products. Searches for the new boson decays using muon pairs provides an exceptional sensitivity due to the striking signature and low background contamination. This analysis relies heavily on the excellent performance of the detector’s muon system. Most of the final LHC dataset will be collected at high luminosity and therefore the ultimate sensitivity of the LHC will be determined by the performance of the detectors during that time. In the second part of the talk, we will discuss the CMS plans for the upgrades of the muon detectors and the expected performance in the high luminosity LHC regime.</li>
+</ul>
+</div>
+&nbsp;
+
+<strong>Date</strong>: Tuesday November 19, 2013 at noon
+
+</div>
+<div>
+<div>
+<ul>
+ 	<li><strong>Title</strong>: Search for exotics (H-dibaryon) with STAR</li>
+ 	<li><strong>Speaker</strong>: Neha Shah (UCLA)</li>
+ 	<li><strong>Abstract</strong>: During past decade experiments at RHIC have shown that a strongly interacting, hot and dense partonic matter is formed in high energy nuclear collisions. The high temperature and presence of different flavor of quarks in the confined space makes heavy ion collisions the most suitable environment for the formation of multi-quark states like: tetra-quark, penta- quark and so on. The H-dibaryon is a multi-quark state with six quarks (uuddss) and was predicted by Jaffe in 1977. Considerable experimental efforts have been devoted to search for the H-dibaryon, however, there is no conclusive experimental evidence of its existence. At the STAR experiment we have tried two approaches to search for the H-dibaryon signal: measurement of Lambda-Lambda correlation function as well as reconstruction of signal using one of its weak decay mode H→Lambda-pi-p. In this talk, I will present the measurement of Lambda-Lambda correlations for sqrt(sNN) = 200 GeV in Au+Au collisions using the STAR experiment at RHIC. I will also discuss implications of measurements of Lambda-Lambda correlations on H-dibaryon search.</li>
+</ul>
+</div>
+&nbsp;
+
+<strong>Date</strong>: Tuesday November 5, 2013 at noon
+
+</div>
+<div>
+<ul>
+ 	<li><strong>Title</strong>: Indirect Searches for Dark Matter with the Fermi Large Area Telescope</li>
+ 	<li><strong>Speaker</strong>: Andrea Albert (SLAC)</li>
+ 	<li><strong>Abstract</strong>: There is overwhelming evidence that non-baryonic dark matter constitutes ~27% of the energy density of the universe.  Weakly Interacting Massive Particles (WIMPs) are promising dark matter candidates that may produce gamma rays via annihilation or decay detectable by the Fermi Large Area Telescope (Fermi LAT).  A detection of WIMPs would also indicate the existence of physics beyond the Standard Model.  I will present recent results from indirect WIMP searches by the Fermi LAT Collaboration.  I will also give a detailed presentation of the recent Fermi-LAT Collaboration search for spectral lines, including a discussion of what we found when investigating the reported tentative signal in the Galactic center at 130 GeV.</li>
+</ul>
+<div></div>
+<strong>Date</strong>: Wednesday Oct.30, 2013 at noon
+
+</div>
+<div>
+<ul>
+ 	<li><strong>Title</strong>: Hot Quark Soup: Viscosity, Flow and Flow Fluctuations in Relativistic Heavy-Ion Collisions</li>
+ 	<li><strong>Speaker</strong>: Matt Luzum (LBNL)</li>
+ 	<li><strong>Abstract</strong>: Relativistic heavy-ion collisions probe the properties of extremely high temperature matter (~10^12 degrees), where there is expected to exist a new phase of matter called the Quark-Gluon Plasma.  These experiments indicate the presence of a medium that behaves as a strongly-coupled, almost-perfect fluid.  I review some of the key results that indicate this strong collective behavior, and outline the current progress toward quantifying properties of the system, such as the shear viscosity of the Quark-Gluon Plasma</li>
+</ul>
+<div></div>
+</div>
+<div>
+
+<strong>Date</strong>: Wednesday October 23, 2013 at 4pm (P&amp;A Colloquium)
+<ul>
+ 	<li><strong>Speaker</strong>: Thomas Schaefer (North Carolina State)</li>
+ 	<li><strong>Title</strong>: NEARLY PERFECT FLUIDITY: From Cold Atoms to Hot Quarks and Gluons</li>
+ 	<li><strong>Abstract</strong>: A dimensionless measure of fluidity is the ratio of shear viscosity to entropy density. In this talk I will argue that fluidity is a sensitive probe of the strength of correlations in a fluid. I will also discuss evidence that the two most perfect fluids ever observed are also the coldest and the hottest fluid ever created in the laboratory. The two fluids are cold atomic gases (~10^-6^ K) that can be probed in optical traps, and the quark gluon plasma (~1012K) created in heavy ion collisions at RHIC and the LHC. Remarkably, both fluids come close to a bound on the shear viscosity that was first proposed based on calculations in string theory, involving the non-equilibrium evolution of back holes.</li>
+</ul>
+</div>
+<div></div>
+<div><strong>Date</strong>: Tuesday October 1, 2013 at noon</div>
+<div>
+<div>
+<ul>
+ 	<li><strong>Speaker: </strong>Jiangyong Jia (BNL)</li>
+ 	<li><strong>Title</strong>:  Event-by-Event flow from ATLAS</li>
+ 	<li><strong>Abstract</strong>: In recent years, the measurement of harmonic flow coefficients $v_n$ has provided important insight into the hot and dense matter created in heavy ion collisions at RHIC and LHC. These coefficients are now understood to reflect the hydrodynamic response to the collision geometry in the initial state. This talk present recent ATLAS measurements on correlations between event planes of different orders and event-by-event distributions of $v_n$ in Pb+Pb collisions at $\sqrt{s_{NN}}=2.76$~TeV. These measurements have provided new constraints on the initial geometry fluctuation, and have revealed strong non-linear effects in the hydrodynamic response of the produced medium to the initial geometry.</li>
+</ul>
+</div>
+<div></div>
+<strong>Date</strong>: Friday September 27, 2013 at 1pm
+<ul>
+ 	<li><strong>Speaker</strong>: Monika Grothe (CERN)</li>
+ 	<li><strong>Title</strong>:  Luminosity determination for the 2012 pp data in CMS</li>
+ 	<li><strong>Abstract</strong>:  In this talk, the Van-der-Meer (VdM) scan methodology for absolute luminosity calibration at the LHC will be described, as well as its application to the 2012 pp data taken with CMS. The talk will put some emphasis on systematic effects in the VdM method that became apparent during the 5 VdM scan campaigns carried out in 2012. The obtained luminosity calibration for the 2012 CMS pp data, recently published as CMS PAS LUM-13-001, will be presented as well.</li>
+</ul>
+<div></div>
+<strong>Date</strong>: Friday September 20, 2013 at 1pm
+<ul>
+ 	<li><strong>Speaker</strong>: Loukas Gouskos (Athens)</li>
+ 	<li><strong>Title</strong>:  Search for supersymmetry with the CMS detector in the single lepton + MET + (b-)jets channel</li>
+ 	<li><strong>Abstract</strong>:  Present results from CMS on searches for Supersymmetry in the single lepton channel using 7 and 8 TeV data</li>
+</ul>
+<div></div>
+</div>
+<div><strong>Date</strong>: Friday September 13, 2013 at 1pm</div>
+<div>
+<ul>
+ 	<li><strong>Speaker</strong>: Jamal Rorie (Univ. of Hawai'i)</li>
+ 	<li><strong>Title</strong>: The Search for a CP-Odd Light Higgs Boson in $\Upsilon(1S)$ Data at Belle</li>
+ 	<li><strong>Abstract</strong>: We conduct a search for a CP-odd light Higgs, $A^0$, in a sample of $(102\pm2) \times10^{6}$ $\Upsilon(1S)$ by looking for $\Upsilon(1S) \rightarrow \gamma A^0$ radiative decays with $A^0\rightarrow\tau^+\tau^-$.  No significant evidence of such decays is found. We set an 90\% confidence level upper limit on $BR(\Upsilon(1S)\rightarrow\gamma A^0) \times BR(A^0\rightarrow\tau^+\tau^-)$ between $4.0\times10^{-6}$ to $4.5\times10^{-5}$ for $A^0$ masses ranging from 3.6 GeV to 9.3 GeV.  This represents a twofold improvement on current world limits for using $\Upsilon(1S)$ from $e^+e^-\rightarrow\Upsilon(1S)$ production and is in agreement with recent limits using $\Upsilon(1S)$ from $\Upsilon(3S)\rightarrow\pi\pi\Upsilon(1S)$ decays.</li>
+</ul>
+</div>
+&nbsp;
+
+&nbsp;
+
+<strong>Date</strong>: Friday September 6, 2013 at 11am
+<ul>
+ 	<li><strong>Speaker</strong>: Meng Xiao (IRFU, CAE Saclay)</li>
+ 	<li><strong>Title</strong>: Search for the Higgs boson decaying to four leptons in the ATLAS detector at LHC.</li>
+ 	<li><strong>Abstract</strong>: I will introduce my work on the Higgs to four lepton analysis, covering the three aspects: background estimation for 2011 and 2012 analysis, the impact of FSR on the Higgs mass, and a method to calculate per-event mass uncertainty.</li>
+</ul>
+&nbsp;
+
+<hr />
+
+<h2><strong><span style="text-decoration: underline;">2012/2013</span></strong></h2>
+&nbsp;
+
+<strong>Date</strong>: June 18, 2013  at 3pm
+<ul>
+ 	<li><strong>Speaker</strong>: Yongde Zhang (USTC)</li>
+ 	<li><strong>Title</strong>: Quantum Teleportation - A journey on its past and future</li>
+ 	<li><strong>Abstract</strong> In this talk we will focus on the first famous experiment----Quantum Teleportation----in quantum information. We will cover details and comments on first generation of quantum teleportation experiment; second generation on quantum swapping, a teleportation of quantum entanglement; third generation on open-destination teleportation, a teleportation experiment about non-local storage of quantum state; fourth generation on two-qubit composite system teleportation; and general theoretical proposal for teleportation transfer of quantum state. At the end we will discuss exotic quantum features in quantum teleportation experiments.</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Tuesday, April 30, 2013 at noon
+<ul>
+ 	<li><strong>Title</strong>: Status of the XENON Dark Matter Search Experiment</li>
+ 	<li><strong>Speaker</strong>: Petr Chaguine (Rice univ.)</li>
+ 	<li><strong>Abstract</strong>: There are many experimental observations that strongly support the view of the universe as consisted of 97% dark matter and energy. The dark matter may exists in the form of new particles called Weakly Interacting Massive Particles (WIMPs), relics from the early universe. XENON100 is a dual phase liquid/gas xenon Time Projection Chamber (TPC) operated at cryogenic temperature for the direct search of Dark Matter WIMPs. The detector, located in the Gran Sasso National Laboratory in Italy, is measuring the recoil energy from elastic WIMP-nucleus scattering. This very low background detector has 50 kg of fiducial mass and 120 kg of the active veto, totally 170 kg of xenon. First test measurements have been already started in 2008. In this talk, I will briefly introduce XENON100 detector, expected sensitivity and present the current results. The future plans for Xenon1T experiment construction started will be presented.</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Tuesday April 16, 3pm (followed by an informal QA session starting at 4pm.)
+<ul>
+ 	<li><strong>Speaker</strong>:  Lucio Rossi  (CERN)</li>
+ 	<li><strong>Title</strong>:  LHC: the accelerator, the discovery, and plan for the future developments.</li>
+ 	<li><strong>Abstract</strong>:  Large Hadron Collider (LHC) of CERN is the largest scientific instruments: 27 km (17mi.) long, 100 m underground is based on powerful superconducting magnets and other special equipment to accelerate and collide protons at the highest energy. LHC has recently allowed the discovery of the Higgs boson, a cornerstone of the Standard Model. The talk will address the possible future discovery and the plan we are making at CERN to go beyond the present limits, with an upgrade program both on luminosity and energy that will cover the next decades of particle physics.</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Tuesday, March 12, 2013 at noon
+<ul>
+ 	<li><strong>Speaker</strong>: Claudia Ratti (Universita` degli Studi di Torino)</li>
+ 	<li><strong><strong>Title</strong>: </strong>Flavor hierarchy in the QCD deconfinement transition.</li>
+ 	<li><strong>Abstract</strong>: Recent advances in the study of the QCD phase transition, using lattice QCD, have revealed a potential flavor dependent hadronization sequence of the deconfined matter as a function of the temperature of the system. This is of particular interest for the strange quark sector since the strange quarks are likely to be in thermal equilibrium with the light quarks. Lattice QCD results on quark number susceptibilities will be presented, together with recent LHC measurements from the ALICE experiment which seem to corroborate this scenario.</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Tuesday, March 5, 2013 at noon
+<ul>
+ 	<li><strong><strong>Speaker</strong>: </strong>Wendy Taylor (York University,  Canada)</li>
+ 	<li><strong>Title</strong>: Search for the Magnetic Monopole at ATLAS</li>
+ 	<li><strong>Abstract</strong>: Magnetic monopoles have long been the subject of dedicated search efforts; however, to date no experimental evidence of a magnetically charged object exists.  I will present the first search for magnetic monopoles at the Large Hadron Collider. The study was performed with the ATLAS detector using an integrated luminosity of 2.0 fb^{-1} of pp collisions recorded at a center-of-mass energy of sqrt{s}=7 TeV. As the signature of magnetic monopoles at ATLAS is very unique, I will elaborate on some of the challenges associated with their simulation and reconstruction.</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Tuesday, February 12, 2013 at noon
+<ul>
+ 	<li><strong>Title</strong>: Searching for chiral symmetry restoration with $phi$ vector mesons</li>
+ 	<li><strong>Speaker</strong>: Masayuki Wada (UT Austin)</li>
+ 	<li><strong>Abstract</strong>: Hadronic resonances can play a pivotal role in providing experimental evidence for partial chiral symmetry restoration in the deconfined quark-gluon phase produced in high energy nucleus-nucleus collisions at RHIC and LHC. Their short lifetimes, when comparable to the lifetime of the fireball, make them a valuable tool to study medium modifications to the resonant state due to the chiral phase transition signatures of mass shifts and/or width broadenings. This can be done via the leptonic decay of resonances having relatively small interaction cross-section of leptonic daughter particles with dense hadronic medium. The measurement of $\phi \rightarrow e^{+}e^{-}$ at mid-rapidity ($|y|&lt;1$) from STAR experiment in Au+Au collisions at $\sqrt{s_{_{NN}}}$ = 200 GeV are presented and compared to the $\phi$ meson result from the hadronic decay channel.</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Tuesday, January 22, 2013 at noon
+<ul>
+ 	<li><strong><strong>Speaker</strong>: </strong>Chanaka De Silva (UH)</li>
+ 	<li><strong>Title</strong>: Unfolding initial conditions and medium properties of Heavy Ion collisions</li>
+ 	<li><strong>Abstract</strong>: Scientists found compelling evidence for creating a new state of matter, called Quark Gluon Plasma (QGP), at RHIC, BNL. This state is believed to have existed during the primordial stages of the Big Bang evolution of our universe. In order to determine the initial conditions and the properties of the QGP, we study di-hadron correlations using STAR data. Novel long-range correlation structure is observed, but only in head on (central) heavy ion collisions and not in peripheral or elementary p+p collisions at the same CM energy. Thus, our study focuses on 0 – 10% Au+Au data at √SNN = 200 GeV. We evolve the di-hadron correlation as a function of &lt;pT&gt; by increasing the lower pT acceptance for both charged particles. The structure dependence is modeled using a Fourier series (n = 1-5) in order to extract initial density fluctuation contributions. An asymmetric 2d Gaussian is used to describe the residual structure (remainder). The extracted Fourier harmonics components are reproduced by predicted hydro scaling trends while the remainder hints at evidence for medium modification of traversing jets. In this context we discuss the extraction of QGP medium properties from the remainder parameters.</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Tuesday November 13, 2012 at noon
+<ul>
+ 	<li><strong>Speaker</strong>: Dragan Mirkovic (MD Anderson)</li>
+ 	<li><strong>Title</strong>: Monte Carlo Computations in Proton Therapy</li>
+ 	<li><strong>Abstract</strong>: Modeling particle propagation with Monte Carlo methods is a flexible and accurate approach to simulate radiation transport through media. In the method, local rules of particle transport are expressed as probability distributions in a way equivalent to modeling particle transport by the radiation transport equation. The Monte Carlo is a statistical method and it requires significant computational time to achieve necessary accuracy. In addition Monte Carlo simulations can keep track of multiple physical quantities simultaneously, with any desired spatial and temporal resolution. This flexibility makes Monte Carlo modeling a powerful tool. Thus, while computationally inefficient, Monte Carlo methods are often considered the standard for simulations of particle transport for many biomedical applications. I this talk we will give a brief introduction to various applications of Monte Carlo methods to the radiation dose computations in patients treated with proton therapy.</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Tuesday, November 6 2012, at noon
+<ul>
+ 	<li><strong>Speaker</strong>: Ralf Rapp (TAMU)</li>
+ 	<li><strong>Title</strong>: Chiral Symmetry Restoration in Heavy-Ion Collisions</li>
+ 	<li><strong>Abstract</strong>: The spectrum of hadrons is intimately related to the structure of the QCD vacuum, which is filled with quark and gluon condensates. Thus, upon heating the vacuum, a melting of the condensates is bound to induce medium modifications of the hadronic spectrum, ultimately leading to the formation of the quark-gluon plasma. Dilepton invariant-mass spectra are the only known observable in high-energy heavy-ion collisions which enable a direct access to medium modifications of a hadronic spectral function (in the vector channel). In particular, thermal radiation of low-mass dileptons (M&lt;1.5GeV) has long been regarded as the most promising tool to ``detect" the melting of the chiral quark condensate (aka ``chiral symmetry restoration"), through the modifications of the light vector mesons rho, omega, phi. We discuss recent progress in this endeavor, in particular by using sum rules to connect order parameters from numerical lattice-QCD computations with effective hadronic theory, and the interpretation of dilepton data including results from the beam energy scan program at RHIC.</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Wednesday, October 31, 2012 at 4pm
+<ul>
+ 	<li><strong>speaker</strong>: Giorgio Torrieri (Frankfurt/Columbia)</li>
+ 	<li><strong>title</strong>: Probing strongly interacting matter by fast particles</li>
+ 	<li><strong>abstract</strong>: In this talk, I will give a phenomenological overview of the physics of energy loss in strongly interacting matter.     I will show how jet energy loss can be measured in heavy ion collisions, and how opacity of the matter created in heavy ion collisions can be related to its fundamental properties, both in the weak coupling and the strong coupling limit. I will argue that, to understand the degree of universality of strongly interacting systems, for example the similarity, or otherwise, between quark-gluon plasma and cold atoms, it will be necessary to  perform the equivalent of jet energy loss measurements in cold atoms.      I will briefly discuss how such a measurement can be performed and its result compared to heavy ion collision experiments.</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Tuesday, October 15, 2012 at noon
+<ul>
+ 	<li><strong>speaker</strong>:  Bob Bernstein (Fermilab)</li>
+ 	<li><strong>title</strong>: A New Charged Lepton Flavor Violation Experiment: Muon-Electron Conversion at Sensitivity &lt; 10{-16}</li>
+ 	<li><strong>abstract</strong>: --</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Tuesday, September 11, 2012 at 1h30pm
+<ul>
+ 	<li><strong>speaker</strong>: Kuvar Singa (TAMU)</li>
+ 	<li><strong>title</strong>: Searching for Top Squarks at the LHC: Supersymmetry and a 125 GeV Higgs</li>
+ 	<li><strong>abstract</strong>: In this talk, I will discuss what a 125 GeV Higgs can tell us about the most popular approach to the hierarchy problem: supersymmetry. In particular, I will discuss why searches for superpartners of the top quark are crucial at this stage. I will pursue search strategies in a scenario where the lighter top squark (stop) mass is accessible for the LHC in the near future, while gluinos and first two generation squarks are heavier.</li>
+</ul>
+&nbsp;
+
+<hr />
+
+<h2><span style="text-decoration: underline;"><strong>2011/2012</strong></span></h2>
+&nbsp;
+
+<strong>Date</strong>: Monday, January 23, 2012 at 11am
+<ul>
+ 	<li><strong>Speaker</strong>: Kuver Sinha (TAMU)</li>
+ 	<li><strong>Title</strong>: Mass Reconstruction, Supersymmetry Breaking, And Dark Matter At The Lhc</li>
+ 	<li><strong>Abstract</strong>: If supersymmetry is discovered at the LHC, the next question will be the determination of the underlying model. While this may be challenging or even intractable, a more optimistic question is whether we can understand the main contours of any particular paradigm of the mediation of supersymmetry breaking. The determination of superpartner masses through endpoint measurements of kinematic observables arising from cascade decays is a powerful diagnostic tool. In this talk, I will lay out a theoretical roadmap for the minimal spectral features one should try to reconstruct, and go on to demonstrate the mass measurement of several superpartners - the gauginos (superpartners of gauge bosons), the stau, and the stop. I will also discuss associated techniques to reconstruct certain Standard Model particles, like the W and the top. Since supersymmetry also provides a dark matter candidate, the above mass measurements will additionally enable us to solve for the relic density, at least in certain parts of parameter space.</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Thursday, October 6, 2011 at 2h30pm
+<ul>
+ 	<li><strong>Speaker</strong>:  Hirotaka Sugawara  (Japan Society for the Promotion of Science (JSPS))</li>
+ 	<li><strong>Title</strong>: Theoretical Ideas about the Quark and Lepton Mass Matrices</li>
+ 	<li><strong>Abstract</strong>: --</li>
+</ul>
+&nbsp;
+
+&nbsp;
+
+<hr />
+
+<h2><span style="text-decoration: underline;"><strong>2010/2011</strong></span></h2>
+&nbsp;
+
+<strong>Date</strong>: Monday, April 4, 2011 at 1h30pm
+<ul>
+ 	<li><strong>Speaker</strong>: Tadafumi Kishimoto  (Osaka University)</li>
+ 	<li><strong>Title</strong>: Study Of 48-Ca Double Beta Decay And Candles</li>
+ 	<li><strong>Abstract</strong>: Study of neutrino-less double beta (0nbb) decay becomes ofparticular importance after the confirmation of neutrino oscillation whichshows that neutrinos have mass.  They could then be Majorana particles whichviolate lepton number conservation.  Once lepton number non-conservation isverified, we have a scenario to explain how our matter dominated universe isrealized dynamically.  It is the leptogenesys combined with CP violation inlepton sector.  0nbb decay is only a known process to verify Majorana natureof neutrino. We have developed the CANDLES detector system for the study of 48-Ca 0nbbdecay.  The 48-Ca has the highest Q value (4.3 MeV) among double beta decaynuclei.  It means that the large decay rate for a given neutrino mass andthe least background.  CANDLES employs CaF2 crystals for the double betasource and the detector. They are immersed in liquid scintillator in anacrylic vessel.  Scintillation signals are viewed by PMT's surrounding thevessel.  The design achieved effective background rejection by using decaytime difference of CaF2 (~1micro sec) and liquid scintillator (~10nano sec).We constructed prototype detector at sea level laboratory which has 200 kgCaF2 crystals and it is now installed at the Kamioka underground laboratory. I would like to describe why we can believe that neutrino has to be aMajorana particle and  present and future of the CANDLES project.</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Monday, March 28, 2011 at 12h15pm
+<ul>
+ 	<li><strong>Speaker</strong>: Amber  Stuver   (California Institute of Technology, LIGO Livingston Observatory)</li>
+ 	<li><strong>Title</strong>: Ligo And The Frontier Of Gravitational Wave Astronomy</li>
+ 	<li><strong>Abstract</strong>: LIGO completed its latest science data collection in October 2010.While this was the most sensitive data ever collected, both detectors (in WAand LA) have been dismantled to install upgrades for the Advanced LIGO(aLIGO) detectors.  Once aLIGO is operational and at sensitivity (~2014), itwill be 10 times more sensitive than Initial LIGO making 1000 times morevolume of the Universe accessible. The search for gravitational waves is notonly to make the first direct detection, but also to open up the field ofgravitational wave astronomy. Until that time, LIGO and Virgo (aninterferometric detector in Italy) have been participating in themulti-messenger astronomy community by responding to observations made bythe EM and particle astronomy communities and alerting the EM astronomycommunity of low-latency candidate gravitational wave detections. Thispresentation will discuss LIGO, the expected sources of gravitational waves,the science produced from null results and the use of gravitational wavedata in multi-messenger astronomy community.</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Tuesday, January 25, 2011 at 12h15pm
+<ul>
+ 	<li><strong>Speaker</strong>: Dmitri  Denisov        (Fermi National Laboratory)</li>
+ 	<li><strong>Title</strong>: Experiments At The Tevatron From The Discovery Of The Top Quark Tosearch For The Higgs Boson</li>
+ 	<li><strong>Abstract</strong>: In the talk review of the recent results from the Tevatronincluding searches for new particles and interactions and precisionmeasurements of the Standard Model parameters will be given. Tevatronresults on the exclusion of the Higgs boson in the large fraction of theallowed mass range will be presented as well as exciting prospects forfuture Higgs searches with continuing increase in the data set.</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Thursday, December 2, 2010 at 12h15pm
+<ul>
+ 	<li><strong>Speaker</strong>: Andrew  Askew  (Florida State University)</li>
+ 	<li><strong>Title</strong>: Let There Be Light:  Photons And The CMS Experiment</li>
+ 	<li><strong>Abstract</strong>: Even though the name of the experiment is the Compact MUON Solenoid(CMS), photons are close to the experiment's heart, both metaphorically and physically.  I will cover the vital and challenging role that photons play both in the search for the Higgs boson, and in the search for physics beyond the Standard Model. I will also discuss what we'velearned from the 2010 collision data.</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Monday October 25, 2010 at noon
+<ul>
+ 	<li><strong>Speaker</strong>: Lembit Sihver, Chalmers University</li>
+ 	<li><strong>Title</strong>:Radiation therapy using heavy ions</li>
+ 	<li><strong>Abstract</strong>: In this presentation, Prof. Sihver will give an overview of his current mainresearch areas. He will especially discuss advantages of radiation therapyusing heavy ions compared to conventional radiation therapy, give someinformation about the current light ion therapy facilities in the world andpresent results of particle and heavy ion simulations related to radiationtherapy and space radiation protection. He will discuss advantages anddisadvantages with one dimensional deterministic transport codes vs. threedimensional Monte Carlo codes. He will also present the one dimensionaldeterministic particle and heavy ion code HIBRAC, which is used in alltreatment planning systems for carbon therapy in the world, and the threedimensional particle and heavy ion transport code PHITS, which is mainlyused for shielding design of accelerator facilities, radiation therapy,simulations of radiation environment at aviation altitudes, and differentradiation measurements in space. In the end of the presentation, Sihver will make some conclusions and give a future outlook of his research.</li>
+</ul>
+&nbsp;
+
+<strong>Date</strong>: Tuesday, October 26, 2010 at 4pm
+<ul>
+ 	<li><strong>Speaker</strong>: Jose Hernandez Orduna   (Cinvestav)</li>
+ 	<li><strong>Title</strong>: The Observation Of The Omega_b Baryon</li>
+ 	<li><strong>Abstract</strong>: --</li>
+</ul>
+&nbsp;
+
+&nbsp;
+
+<hr />
+
+<h2><span style="text-decoration: underline;"><strong>2009/2010</strong></span></h2>
+&nbsp;
+
+<strong>Date</strong>: Tuesday, April 20, 2010 at noon
+<ul>
+ 	<li><strong>Speaker</strong>: Joe Fowler (Princeton)</li>
+ 	<li><strong>Title</strong>: Cosmology From The Arcminute-Scale Microwave Background Radiation: Mapping the Oldest Light in the Universe from the Driest Desert on Earth</li>
+ 	<li><strong>Abstract</strong>: --</li>
+</ul>
+&nbsp;
+
+&nbsp;
+
+<strong>Date</strong>: Wednesday, December 2, 2009 at noon
+<ul>
+ 	<li><strong>(1) Speaker</strong>:  Lawrence Pinsky - University of Houston</li>
+ 	<li><strong>Title</strong>: Ion Radiation Therapy</li>
+ 	<li><strong>Abstract</strong>: The advantages of ion therapy over other modalities of radiationtherapy will be presented.</li>
+ 	<li><strong>(2) Speaker:</strong> Jeff Chancellor - Cancer Warrior Coalition</li>
+ 	<li><strong>Title: </strong>An Ion Therapy Facility in Houston</li>
+ 	<li><strong>Abstract: </strong>The Cancer Warrior Coalition proposes to bring a cutting edge,first of its kind heavy-ion cancer therapy and research center to theHouston area. The center will be integrated with Rice University and BaylorCollege Of Medicine providing Rice and the State of Texas with atranslational research complex unlike any other in the world.Our vision is to establish a center for heavy-ion cancer therapy and acharged particle research facility to address issues such as: € The ability to detect cancer precursors at an early stage and developprevention strategies.€ continue developing the use of high-energy heavy-ion particles beams forthose cancers that are inoperable, deep seated or for tumors that areresistant to x-ray treatment.€ The lack of heavy-ion accelerators in the US for fundamental scientificresearch. Our proposed center will bring a synchrotron accelerator in order toapproach cancer research from new directions, applying first principles ofphysics and biology. This facility will examine the efficacy of using heavyions as a new, non-invasive tumor treatment modality, placing fewer physicalburdens on patients.</li>
+</ul>
